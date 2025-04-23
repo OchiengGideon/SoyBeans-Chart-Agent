@@ -14,28 +14,33 @@ from langchain_community.llms import Ollama as LangchainOllama
 from django.contrib.auth.models import User
 
 # ----------------------------------------
-# Initialize Vector Store (PDFs + Chroma Cloud)
+# Initialize Embedding Model
 # ----------------------------------------
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 
-
 EMBEDDING_MODEL_NAME = "distiluse-base-multilingual-cased-v2"
 emb_model = SentenceTransformer(EMBEDDING_MODEL_NAME)
+hf_embeddings = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)
 
 model = "llama3.2"  
 ollama_url = "https://dory-renewing-termite.ngrok-free.app/api/chat"
 
-    
-hf_embeddings = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)
+# ----------------------------------------
+# Lazy Initialization of Vector Store
+# ----------------------------------------
+_vector_store_instance = None
 
-
-
-PDF_FOLDER = os.path.join(settings.BASE_DIR, 'pdfs')
-chunks = load_and_chunk_pdfs(PDF_FOLDER)
-local_store = get_or_create_faiss(chunks, hf_embeddings)
-chroma_collection = chroma_client.get_or_create_collection('soybeans')
-VS = VectorStore(local_store, chroma_collection)
+def get_vector_store():
+    global _vector_store_instance
+    if _vector_store_instance is None:
+        print("🔄 Initializing vector store...")
+        PDF_FOLDER = os.path.join(settings.BASE_DIR, 'pdfs')
+        chunks = load_and_chunk_pdfs(PDF_FOLDER)
+        local_store = get_or_create_faiss(chunks, hf_embeddings)
+        chroma_collection = chroma_client.get_or_create_collection('soybeans')
+        _vector_store_instance = VectorStore(local_store, chroma_collection)
+    return _vector_store_instance
 
 # ----------------------------------------
 # Ollama LLM Client
@@ -59,7 +64,7 @@ class OllamaClient:
                 json={
                     "model": self.model,
                     "messages": messages,
-                    "stream": False  # Set to True for streaming
+                    "stream": False
                 },
                 timeout=30
             )
@@ -88,7 +93,6 @@ class QueryExtractorAgent:
         prompt = self.PROMPT.format(query=raw_query)
         resp = OLLAMA.generate(prompt)
 
-        # DEBUG PRINT
         print("🧠 Ollama response (extractor):", repr(resp))
 
         try:
@@ -110,8 +114,8 @@ class InfoRetrievalAgent:
         "Based on the information above, summarize key advice in 2 to 3 well-formed, informative sentences. Focus on clarity and usefulness for the user."
     )
 
-    def __init__(self, vector_store=VS):
-        self.vs = vector_store
+    def __init__(self, vector_store=None):
+        self.vs = vector_store or get_vector_store()
 
     def retrieve(self, key_info: dict) -> str:
         query_text = key_info.get('query', '')
@@ -122,6 +126,7 @@ class InfoRetrievalAgent:
             docs=docs_text
         )
         return OLLAMA.generate(prompt)
+
 
 class MemoryAgent:
     def __init__(self, user: User):
@@ -143,6 +148,7 @@ class ProfileAgent:
         items = [f"Q: {q.query_text}\nA: {q.response_text}" for q in history_qs]
         prompt = self.PROMPT.format(history="\n---\n".join(items))
         return OLLAMA.generate(prompt)
+
 
 class ContextualAdviceAgent:
     PROMPT = (
@@ -176,7 +182,6 @@ class ContextualAdviceAgent:
         print("🧠 Profile Summary:", profile_summary)
         print("🧠 Advice Text:", advice_text)
 
-
         prompt = self.PROMPT.format(
             profile=profile_summary,
             question=raw_query,
@@ -184,14 +189,7 @@ class ContextualAdviceAgent:
         )
 
         response = OLLAMA.generate(prompt)
-        print("🧠 Ollama response (advice):",response)
-
-        # if not response:
-        #     return {
-        #         "answer": "Sorry, I couldn't generate a helpful response at the moment.",
-        #         "recommendations": [],
-        #         "location": None
-        #     }
+        print("🧠 Ollama response (advice):", response)
 
         try:
             print("successfull advice")
