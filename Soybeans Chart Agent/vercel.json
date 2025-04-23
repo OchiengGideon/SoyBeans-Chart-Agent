@@ -1,0 +1,13 @@
+{
+  "builds": [{
+      "src": "Fertilizer_and_Seed_Recomendation/wsgi.py",
+      "use": "@vercel/python",
+      "config": { "maxLambdaSize": "15mb", "runtime": "python3.11" }
+  }],
+  "routes": [
+      {
+          "src": "/(.*)",
+          "dest": "Fertilizer_and_Seed_Recomendation/wsgi.py"
+      }
+  ]
+}
