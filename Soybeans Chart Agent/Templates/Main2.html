@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}" />
+    <link href="https://unpkg.com/lucide-static@latest/icons.css" rel="stylesheet">
+    <title> Fertilizer and Seed Recommendation System</title>
+</head>
+
+<body>
+
+    {% include 'navbar2.html' %}
+
+    {% if messages %}
+    <ul class="messages">
+        {% for message in messages %}
+        <li>{{ message }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+
+    {% block content %}
+
+
+    {% endblock %}
+    
+    <script src="{% static 'js/script.js' %}"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script>
+    lucide.createIcons();
+    </script>
+    <script>
+        // CSRF helper for production
+        function getCookie(name) {
+          let cookieValue = null;
+          if (document.cookie && document.cookie !== '') {
+            const cookies = document.cookie.split(';');
+            for (let i = 0; i < cookies.length; i++) {
+              const cookie = cookies[i].trim();
+              if (cookie.substring(0, name.length + 1) === name + '=') {
+                cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                break;
+              }
+            }
+          }
+          return cookieValue;
+        }
+      
+        async function sendMessage() {
+          const user_input = document.getElementById('user_input').value;
+          const csrftoken = getCookie('csrftoken');
+      
+          const response = await fetch('/ask', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/x-www-form-urlencoded',
+              'X-CSRFToken': csrftoken  // required for production
+            },
+            body: `user_input=${encodeURIComponent(user_input)}`
+          });
+      
+          const data = await response.json();
+          const chat = document.getElementById('chat');
+          chat.innerHTML += `<div class="message user-message"><strong>You:</strong> ${user_input}</div>`;
+          chat.innerHTML += `<div class="message bot-message"><strong>Bot:</strong> ${data.response}</div>`;
+          document.getElementById('user_input').value = '';
+          chat.scrollTop = chat.scrollHeight;
+        }
+      </script>
+
+</body>
+
+</html>

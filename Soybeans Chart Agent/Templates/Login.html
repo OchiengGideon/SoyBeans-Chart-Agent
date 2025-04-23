@@ -1,0 +1,58 @@
+{%load static%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FSRP Login</title>
+  <link rel="stylesheet" href="{%static 'css/styles.css'%}">
+</head>
+<div>
+  <div class="login-main" style="background-image: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url('{% static 'Images/backgroundlogin.jpg' %}');" >
+  <div class="main">
+    <div class="navbar">
+      <div class="icon">
+        <div class="Logo">FSRS</div>
+      </div>
+      <div class="Menu">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Recomendation</a></li>
+          <li><a href="#">Updates</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Contact Us</a></li>
+         
+        </ul>
+    
+      </div>
+    
+    </div>
+
+    {% if messages %}
+    <ul class="messages">
+        {% for message in messages %}
+        <li>{{ message }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+    <div class="content">
+      <h1>Fertilizer & Seed <br><span>Recommendation</span><br>System</h1>
+      <p class="paragraph">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, dolor! Officiis corporis, <br>id beatae consectetur officia blanditiis culpa est. Dolor veniam <br>consectetur molestias! Aliquid, consectetur similique? Optio ducimus labore consequuntur.</p>
+      <button class="cn"><a href="#">More Info</a></button>
+      <div class="form">
+        <h2>Login Here</h2>
+        <form method="POST">
+        {% csrf_token %}
+          <input type="text" name="username" placeholder="Enter Your username">
+          <input type="password" name="password" placeholder="Enter Your Password">
+          <button type="submit" class="login-btn">Login</button>
+        </form>
+        <p class="link">Don't have an account?<br>
+        <a href="{% url 'register' %}">Sign up here</a></p>
+        <p class="liw">Log in With</p>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

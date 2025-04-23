@@ -1,0 +1,35 @@
+{% load static %}
+<main>
+    {% if messages %}
+    <ul class="messages">
+        {% for message in messages %}
+        <li>{{ message }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+  <section id="home">
+    <p>T: {{name}}°C</p>
+    <p>Temperature: {{ temperature }}°C</p>
+    <p>Pressure: {{ pressure }} hPa</p>
+    <p>Humidity: {{ humidity }}%</p>
+    <p>Description: {{ description }}</p>
+    <p>City not found.</p>
+      <canvas id="weather-animation"></canvas>
+  </section>
+  <section id="forecast">
+      <h1>Forecast</h1>
+      <div class="day-of-week-widget">
+          <!-- Repeat for each day -->
+      </div>
+  </section>
+  <section id="my-cities">
+      <h1>My Cities</h1>
+      <ul>
+          <!-- Repeat for each city -->
+      </ul>
+  </section>
+  <section id="map">
+      <h1>Map</h1>
+      <div id="map-container"></div>
+  </section>
+</main>

@@ -1,0 +1,235 @@
+<style>
+   .block{
+    width: 150px;
+    line-height:150px;
+    width: 150px;
+    line-height:150px;
+    background-color: aqua;
+    transition: background-color 1s;
+   }
+  .block, #container{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .block:hover{
+    background-color: aquamarine;
+  }
+  .subscribe-button{
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+    vertical-align: top;
+  }
+  .subscribe-button:hover{
+    opacity: 0.7;
+  }
+  .subscribe-button:active{
+    opacity: 0.5;
+  }
+  .join-button{
+    background-color: white;
+    border-color: rgb(41, 118, 211);
+    border-style: solid;
+    border-width: 1px;
+    color: rgb(41, 118, 211) ;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: background-color 0.15s, color 0.15s;
+    vertical-align: top;
+  }
+  .join-button:hover{
+    background-color: rgb(41, 118, 211);
+    color:white;
+  }
+  .join-button:active{
+    opacity: 0.7;
+  }
+  .tweet-button{
+    background-color: rgb(2, 158, 255);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 70px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-left: 8px;
+    transition: box-shadow 0.15s;
+    vertical-align: top;
+  }
+  .tweet-button:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+
+  }
+  div #container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+  }
+  .blue{
+    background-color: blue;
+    color: blue;
+    transition: color 0.75s, transform 0.75s;
+
+  }
+  .blue:hover{
+    color: white;
+    transform: skew(50deg, -35deg);
+  }
+  .red{
+    background-color: red;
+    color: red;
+    transition: color 0.75s, transform 1s;
+  }
+  .red:hover{
+    color: white;
+    transform: scale( 2, 2);
+  }
+  .green{
+    background-color: green;
+    color: green;
+    transition: color 0.75s, transform 1s;
+  }
+  .green:hover{
+    color: white;
+    transform: skew(20deg, -30deg);
+  }
+  .blue, .red, .green{
+    width: 150px;
+    height: 150px;
+    align-items: center;
+  }
+  .container2{
+    height: 50px;
+    line-height: 50px;
+    vertical-align: middle;
+  }
+  .wordblock{
+    float: center;
+    width: auto;
+    height: inherit;
+  }
+  .word{
+    color: brown;
+    
+  }
+  .transform{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    transition: trasform 1s;
+  }
+  .yellow1{
+    transform-origin: 0 0;
+  }
+  .yellow2{
+    transform-origin: 100% 0;
+  }
+  .transform:hover{
+    transform: rotate(30deg);
+  }
+  .loginLogoutBtn{
+    display: flex;
+    justify-content: right;
+  }
+  .loginLogoutBtn a{
+    text-decoration: none;
+    padding: 9px;
+    color: #10316B;
+    border: 1px solid #91b6f6;
+    border-radius: 4px;
+    margin:4px;
+
+  }
+  /*Style for search bar*/
+  .search{
+    width: 330px;
+    float: left;
+    margin-left:270px ;
+  }
+  .srch{
+    font-family: 'Times New Roman';
+    width: 200px;
+    height: 40px;
+    background: transparent;
+    border: 1px solid #10316B;
+    margin-top: 13px;
+    color: #fff;
+    border-left: none;
+    font-size: 16px;
+    float: left;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+  }
+  .searchBtn{
+    width: 100px;
+    height: 40px;
+    background: #10316B;
+    border: 2px solid #10316B;
+    margin-top: 13px;
+    color: #fff;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+  }
+  .searchBtn:focus{
+    outline: none;
+  }
+  .srch:focus{
+    outline: none;
+  }
+</style>
+<button class="subscribe-button">SUBSCRIBE</button>
+<button class="join-button">JOIN</button>
+<button class=" tweet-button">Tweet</button>
+<div class="block"><h3>Hello</h3> </div>
+<div id="container">
+  <div class="blue">blue</div>
+  <div class="red">red</div>
+  <div class="green">green</div>
+</div>
+<div class="container2">
+  <span>vertically centered</span>
+</div>
+<div class="wordblock">
+  <p class="word">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non ullam provident ducimus distinctio quae, quam voluptatum. Tempora distinctio magni voluptatem nulla, voluptatibus, voluptate dolores, impedit sapiente autem iure praesentium dolorum!</p>
+</div>
+
+<div id="container">
+  <div class="blue">blue</div>
+  <div class="red">red</div>
+  <div class="green">green</div>
+</div>
+ <div class="transform yellow1"></div>
+ <div class="transform yellow2"></div>
+
+<!--Login and Log out Buttons-->
+<div class="loginLogoutBtn">
+  <a href="#">Login</a>
+  <a href="#">Logout</a>
+</div>
+
+<!-- Search bar design-->
+<div class="search">
+  <input class="srch" type="search" name="" placeholder="Type to Search">
+  <a href="#"><button class="SearchBtn">Search</button></a>
+</div>

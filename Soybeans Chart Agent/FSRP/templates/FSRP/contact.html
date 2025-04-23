@@ -1,0 +1,12 @@
+{% extends 'main.html'%}
+{% block title %}Contact{% endblock %}
+{% block content%}
+   <h1>Contact Template</h1>
+  
+        {% for infos in info %}
+        <div>
+          <h3>{{infos.id}} -- {{infos.name}}</h3>
+        </div>
+       
+        {% endfor %}
+{% endblock %}

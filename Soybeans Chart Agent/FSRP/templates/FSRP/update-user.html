@@ -1,0 +1,56 @@
+{% extends 'main.html' %}
+
+{% block content %}
+<main class="update-account layout">
+  <div class="container">
+    <div class="layout__box">
+      <div class="layout__boxHeader">
+        <div class="layout__boxTitle">
+          <a href="{% url 'home' %}">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+              <title>arrow-left</title>
+              <path
+                d="M13.723 2.286l-13.723 13.714 13.719 13.714 1.616-1.611-10.96-10.96h27.625v-2.286h-27.625l10.965-10.965-1.616-1.607z">
+              </path>
+            </svg>
+          </a>
+          <h3>Edit your profile</h3>
+        </div>
+      </div>
+      <div class="layout__body">
+        <p>fdwsferfhtghtiguhycgynub</p>
+        <form  action="" method="post" enctype="multipart/form-data">
+          {% csrf_token %}
+          <label for="profile_picture">Profile Picture:</label>
+          <input type="file" id="profile_picture" name="profile_picture" accept="image/*"><br>
+      
+          <label for="name">User Name:</label>
+          <input type="text" id="name" name="name" value="{{ profile.name }}"><br>
+      
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" value="{{ profile.email }}"><br>
+      
+          <label for="birth_date">Birth Date:</label>
+          <input type="date" id="birth_date" name="birth_date" value="{{ profile.birth_date }}"><br>
+      
+          <label for="city">City:</label>
+          <input type="text" id="city" name="city" value="{{ profile.city }}"><br>
+      
+          <label for="state">State:</label>
+          <input type="text" id="state" name="state" value="{{ profile.state }}"><br>
+      
+          <label for="country">Country:</label>
+          <input type="text" id="country" name="country" value="{{ profile.country }}"><br>
+      
+          <div class="form__action">
+            <a class="btn btn--dark" href="index.html">Cancel</a>
+            <button class="btn btn--main" type="submit">Update</button>
+          </div>
+        </form>
+        </form>
+      </div>
+    </div>
+  </div>
+  </div>
+</main>
+{% endblock content %}

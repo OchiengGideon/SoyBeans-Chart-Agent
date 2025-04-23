@@ -1,0 +1,2008 @@
+Environmental Conservation 28 (1): 23–38 © 2001 Foundation for Environmental Conservation
+
+Soybean cultivation as a threat to the environment in Brazil
+
+P H I L I P   M .   F E A R N S I D E *
+Department of Ecology, National Institute for Research in the Amazon (INPA), Avenida André Araújo, 2936 CP 478, 69011–970 Manaus,
+Amazonas. Study supported by Centre for Applied Biodiversity Science, Conservation International
+Date submitted: 7 January 2000 Date accepted: 10 October 2000
+
+Summary
+
+Introduction
+
+Soybeans  represent  a  recent  and  powerful  threat  to
+tropical  biodiversity  in  Brazil.  Developing  effective
+strategies to contain and minimize the environmental
+impact of soybean cultivation requires understanding
+of both the forces that drive the soybean advance and
+the  many  ways  that  soybeans  and  their  associated
+infrastructure  catalyse  destructive  processes.  The
+present  paper  presents  an  up-to-date  review  of  the
+advance of soybeans in Brazil, its environmental and
+social costs and implications for development policy.
+Soybeans are driven by global market forces, making
+them  different  from  many  of  the  land-use  changes
+that  have  dominated  the  scene  in  Brazil  so  far,
+particularly  in  Amazonia.  Soybeans  are  much  more
+damaging  than  other  crops  because  they  justify
+massive  transportation  infrastructure  projects  that
+unleash  a  chain  of  events  leading  to  destruction  of
+natural habitats over wide areas in addition to what is
+directly  cultivated  for  soybeans.  The  capacity  of
+global markets to absorb additional production repre-
+sents the most likely limit to the spread of soybeans,
+although Brazil may someday come to see the need for
+discouraging rather than subsidizing this crop because
+many  of  its  effects  are  unfavourable  to  national
+interests,  including  severe  concentration  of  land
+tenure  and  income,  expulsion  of  population  to
+Amazonian  frontier,  and  gold-mining,  as  well  as
+urban  areas,  and  the  opportunity  cost  of  substantial
+drains  on  government  resources.  The  multiple
+impacts  of  soybean  expansion  on  biodiversity  and
+other development considerations have several impli-
+cations  for  policy:  (1)  protected  areas  need  to  be
+created  in  advance  of  soybean  frontiers,  (2)  elimin-
+ation  of  the  many  subsidies  that  speed  soybean
+expansion  beyond  what  would  occur  otherwise  from
+market forces is to be encouraged, (3) studies to assess
+the costs of social and environmental impacts associ-
+ated  with  soybean  expansion  are  urgently  required,
+and  (4)  the  environmental-impact  regulatory  system
+requires  strengthening,  including  mechanisms  for
+commitments  not  to  implant  speciﬁc  infrastructure
+projects that are judged to have excessive impacts.
+
+Keywords: soy,  soybeans,  deforestation,  Amazonia,  Brazil,
+biodiversity
+
+*Correspondence:  Dr  Philip  M.  Fearnside  Tel:  (cid:2)55  92  643  1822
+Fax: (cid:2)55 92 642 8909 e-mail: pmfearn@inpa.gov.br
+
+International  markets  for  soybeans  have  been  rapidly
+expanding and the amount supplied by tropical sources has
+increased even faster than the total volume of global soybean
+trade, as soy growing has progressively been transferred from
+temperate  to  tropical  areas  where  land  is  cheaper.  Latin
+America  is  the  principal  focus  of  this  expansion,  especially
+Brazil, followed by Bolivia and Paraguay.
+
+Soybeans represent a new and powerful force among the
+panoply  of  threats  to  biodiversity  in  Brazil  (Carvalho  1999;
+Osava  1999).  Effective  strategies  to  contain  the  advance  of
+soybeans  and  the  damage  this  advance  causes  will  require
+both  understanding  the  processes  by  which  the  advance
+occurs and the nature of its impacts. Changing the direction
+of development can only be expected if decision-makers and
+the public are aware of the full range of impacts and of the
+often indirect means by which they are inﬂicted.
+
+The  decision-making  process  clearly  takes  little  note  of
+the impacts when major projects are launched. The picture of
+development  that  emerges  is  one  of  a  blind  ﬂight  towards
+ever-greater  and  more  widely-dispersed  areas  of  soybeans.
+Brazil’s 
+legal  mechanisms  for  assessing  environmental
+impacts and licensing infrastructure projects are incapable of
+detecting many of the most severe consequences of soybeans,
+especially the ‘dragging effect’ through which other destruc-
+tive activities (such as ranching and logging) are accelerated
+by infrastructure built for soybeans. Even when problems are
+evident  despite  limitations  of  the  environmental  impact
+assessment system, the system is no match for the lobbying
+power of soy interests. In addition to the inadequacy of regu-
+latory safeguards, the decision-making process that generates
+proposal after proposal for grandiose infrastructure projects
+is effectively disconnected from any consideration of the far-
+ranging  impacts  these  projects  cause.  These  aspects  of  the
+situation should not be taken as givens, but rather as subject
+to  change.  Considering  the  ramiﬁcations  of  the  spread  of
+soybeans in some detail provides ample justiﬁcation for such
+reforms. The present paper presents a review of up-to-date
+information  on  the  dynamics  and  potential  impacts  of  the
+advance  of  soybeans  in  Brazil  with  a  view  to  identifying
+appropriate policy responses.
+
+Soybeans and deforestation
+
+The global market for soybeans, which propels the advance of
+this  crop,  is  really  composed  of  three  markets:  whole
+soybeans, soy oil and soy meal. Most meal goes to Europe (to
+feed  poultry  and  hogs)  and  most  oil  to  Asia.  The  global
+
+24
+
+Philip M. Fearnside
+
+Figure 1 Original vegetation types in Brazil, including
+areas threatened by soy development in the Pantanal
+wetlands, Amazonian forests, cerrado savannas and ‘other’
+Amazonian savannas.
+
+soybean  harvest  has  been  rapidly  increasing,  expanding  at
+10% per annum over the 1989–1998 period (Mendez 1999).
+China, which was an exporter of soybeans as recently as 1993,
+is now the world’s largest importer in all three markets: whole
+soybeans, oil and meal (Brown et al. 1999). Future demand
+from China is a major factor in the extent to which soybean
+cultivation will spread in Brazil.
+
+Much of the soybean planting so far has been in areas outside
+of tropical forest, such as cerrado (central Brazilian scrub
+savanna) and in various kinds of native Amazonian grasslands
+(campos) (Fig. 1). However, this vegetation harbours a high
+diversity that is often under-appreciated: Brazilian cerrado is
+believed to be the most diverse of the world’s savannas in terms
+of number of species (Klink et al. 1993; Myers et al. 2000).
+
+The ‘dragging effect’ and destructive development
+
+The  impact  of  soybeans  greatly  exceeds  the  loss  of  natural
+areas  directly  converted  to  this  land  use  because  of  the
+massive infrastructure development needed to provide trans-
+portation  for  harvest  and  entry  of  inputs.  Other  land  uses,
+such as cattle pasture, occupy vast areas but do not carry the
+political weight needed to induce the government to build up
+to eight industrial waterways (Fig. 2), three railways, and an
+extensive  network  of  highways  (Fig.  3).  Much  of  the
+Amazonian  portion  of  the  federal  government’s  1996–1999
+‘Brazil in Action’ (Brasil em Ação) programme was devoted to
+soybean  infrastructure  (Consórcio  Brasiliana  1998;  Brazil,
+Programa Brasil em Ação 1999). The 2000–2003 Pluriannual
+Plan  (PPA),  better  known  as  ‘Forward  Brazil’  (Avança
+Brasil),  foresees  budget  allocations  for  the  same  infrastruc-
+ture (Brazil, Programa Avança Brasil 1999, 2000). There are
+additional existing and planned waterways in other parts of
+the country, but these are not directly related to soybeans.
+
+Much  of  the  effect  of  the  infrastructure  projects  comes
+
+Figure 2 Industrial hidrovias (waterways) for soybean
+transport. Waterways 1, 4 and the southern part of 5 are
+partially operational; 2 and 3 are in advanced stages of the
+licensing process; the northern part of 5 is included in
+Forward Brazil plans, and 6, 7 and 8 are in preliminary
+stages of discussion.
+
+from what Brazilian planners call the ‘dragging effect’ (efeito
+de arraste), or the stimulation of private investment as a result
+of public expenditure in a project. According to the head of
+‘Brazil in Action’, the Madeira Waterway is expected to have
+a  ‘dragging  effect’  equal  to  three  times  the  direct  expendi-
+tures  on  the  project  (Paulo  Silveiro,  Director,  Brazil  in
+Action Programme, public statement 1998). The investments
+attracted  can  be  expected  to  include  logging,  ranching  and
+other activities with severe biodiversity impacts.
+
+The cost to the country of producing soybeans includes not
+only money invested in infrastructure and in the soy production
+system, but also the opportunity cost of lost environmental
+services caused by the full impact on natural ecosystems
+affectedbythe‘draggingeffect’,notjustwhatisplanteddirectly
+to soybeans. The ‘dragging effect’ completely escapes the
+current environmental impact statement and project licensing
+process in Brazil (Fearnside 2001a). Costs include biodiversity
+loss when natural ecosystems are converted to soybeans, severe
+impacts to some of the transportation systems, soil erosion,
+health and environmental effects of agricultural chemicals,
+expulsion of population that formerly inhabited the areas used
+for soybeans, lack of production of food for local consumption
+because crop land used for subsistence agriculture is taken over
+by soybeans, and the opportunity cost of government funds
+devoted to subsidizing soybeans not being used for education,
+health and investment in activities that generate more employ-
+ment than does mechanized cultivation of soy. Employment
+generation by soybean cultivation is minimal. In Maranhão, on
+average only one worker is employed per 167 ha of soybeans,
+
+Soybean cultivation in Brazil
+
+25
+
+Figure 3 Locations mentioned in the text.
+
+and on large plantations this ratio rises to one per 200 ha
+(Carvalho 1999). The employment created often contributes
+nothing to alleviating local unemployment. For example, in
+Humaitá, Amazonas, skilled workers from the state of Rio
+Grande do Sul (Fig. 3) are brought in to operate the agricultural
+machinery (P.M. Fearnside, personal observation).
+
+The rise of soybeans
+
+Brazil produced just under one-quarter of the global soybean
+harvest in 1998, making it the world’s second largest producer,
+behind the USA, which produces about half the global harvest
+(Brown et al. 1999, p. 32). Brazil’s 1999 soy area totalled 13
+million ha (Brazil, CNPSO-EMBRAPA 1999). Brazil’s long
+growing season represents a great advantage over competitors
+in temperate countries. Not only are higher annual yields
+achieved than in North America, but the extra time in the
+growing season relieves Brazilian farmers of the exceedingly
+intense bursts of activity at planting and harvesting times that
+are necessary for their temperate-zone competitors.
+
+In the 1970s, anchovy ﬁsheries off the coast of Peru
+collapsed, and this contributed to the use of soybeans as a
+
+substitute for ﬁsh meal in animal feeds in North America and
+Europe (see Fearnside 1995). In addition, a drought in North
+America led to a temporary suspension of shipments to Europe
+from that major international exporter (Smith et al. 1995). The
+resulting increase in soybean prices led to rapid expansion of
+mechanized soybean cultivation in the southern Brazilian state
+of Paraná. A frost in southern Brazil in 1975 also speeded aban-
+donment of coffee. Other factors inducing landholders in
+southern Brazil to switch from labour-intensive crops such as
+coffee included increased rights given to sharecroppers under
+a 1964 land statute and minimum wage laws that increased the
+cost of hiring labourers (Kaimowitz & Smith 2001).
+
+Soybeans then moved from Paraná to the cerrado (Klink
+1995;  Klink  et  al. 1994).  The  march  of  soybean  cultivation
+over the last 30 years is shown in maps of data at the level of
+counties  (municípios)  from  the  Brazilian  Institute  for
+Geography and Statistics (IGBE; Fig. 4).
+
+An  important  factor  in  the  advance  of  soybeans  into  the
+cerrado  was  development  of  soybean-bacteria  combinations
+with pseudosymbiotic relationships that allow soybeans to be
+planted with no application of nitrogen fertilizer. This was a
+triumph for Brazilian research (see, for example Döbereiner
+
+26
+
+Philip M. Fearnside
+
+Programme
+
+Development of the Cerrados (POLOCENTRO) distributed
+highly subsidized loans between 1975 and 1982, which were
+responsible for conversion of 2.4 million ha of savanna to
+agriculture (Mueller et al. 1992). Another key event in the
+history of the soybean advance in the cerrado was the Nippo-
+Brazilian Co-operation
+for Agricultural
+Development of the Cerrado (PRODECER), begun in 1974
+with ﬁnance from the Japanese International Cooperation
+Agency ( JICA). This programme has continued, the current
+PRODECER-III programme being focused on expanding
+soybeans in the county of Pedro Afonso, in the Bico de
+Papagaio (Parrot’s Beak) region in the northern-most part of
+the state of Tocantins (Carvalho 1999), an area famous for
+farmers and large
+violent
+grileiros
+(see
+Foweraker 1981). The large ranchers have now essentially
+won these battles, having driven small farmers to more
+distant frontiers. The land is now being converted from cattle
+to soybean production.
+
+land conﬂicts between small
+(land grabbers)
+
+in the 1970s and 1980s
+
+Brazil’s overall soybean area declined slightly from 13.2 to
+12.7  million  ha  from  1998  to  1999  (Brazil,  CNPSO-
+EMBRAPA  1999),  however,  soybean-growing  continued  to
+shift  to  Amazonia.  In  1996,  there  were  only  1800 ha  of
+soybeans  in  Rondônia,  but  the  area  increased  to  4700 ha  by
+1998,  and  to  14 000 ha  in  1999.  In  Maranhão,  the  soy  area
+increased  from  89 100  to  140 000 ha  over  the  1996–1999
+period (Brazil, CNPSO-EMBRAPA 1999).
+
+The current advance of soybeans into the Amazonian
+part of Brazil
+is different from other kinds of land-use
+conversion in recent years. The role of global markets in
+soybean expansion is in marked contrast to the dominant
+land use in deforested parts of Brazilian Amazonia, namely
+cattle pasture. Cattle ranching has,
+in the context of
+Brazilian Amazonia, been largely motivated by ulterior
+motives such as land speculation, land-tenure establishment,
+and ﬁscal incentives (see Hecht et al. 1988; Fearnside 1987a;
+2001b). Even logging has been, in the Brazilian context,
+dominated by domestic markets
+(Smeraldi &
+Veríssimo 1999).
+
+so far
+
+Soybeans  have  been  rapidly  expanding  in  Brazilian
+Amazonia as a combined result of high prices (still favourable
+despite recent declines) and indirect government subsidies in
+various  forms,  including  massive  public  expenditure  on
+transportation infrastructure such as the hidrovias (industrial
+waterways;  Fig.  2).  Infrastructure  projects  already  built  or
+under  construction  include  the  Madeira  Waterway,  the
+Itacoatiara  soybean  terminal,  part  of  the  North-South
+Railway,  and  the  BR-333  Highway 
+linking  southern
+Maranhão to Minas Gerais. Projects not yet built include the
+Araguaia–Tocantins  Waterway,  the  Teles  Pires–Tapajós
+Waterway,  the  Capim  River  Waterway,  the  North-South
+Railway  (Anápolis–Açailândia),  the  Ferronorte  Railway
+(Uberaba  and  Santa  Fé  do  Sul–Vilhena,  and  later  to  Porto
+Velho), the Paraguay–Paraná River Waterway (the ‘Pantanal
+Waterway’), reconstruction of the Madeira-Mamoré Railway
+and  associated  development  of  a  waterway  on  the  Mamoré
+
+Figure 4 Soybean cultivation in (a) 1977, (b) 1990, (c) 1996.
+Areas of circles are proportional to soybean areas by
+municipio (county). After Théry (1999).
+
+1992).  Development  of  varieties  tolerant  to  low  soil  phos-
+phorus and high aluminium was also critical (Spehar 1995).
+Generous subsidies were a key factor in inducing the
+movement of soybeans to the cerrado. The Program for
+
+Because agricultural
+
+and  Guaporé  rivers,  paving  of  the  Santarém-Cuiabá
+Highway  (BR-163)  and  construction  of  the  Road  to  the
+Paciﬁc.  Other  plans  have  been  announced  that  may  lead  to
+construction projects further in the future. For example, in
+1999,  the  governor  of  the  State  of  Amazonas  proposed
+building  a  waterway  to  connect  the  state  with  the  Orinoco
+Basin  in  Venezuela  (Anon.  1999a).  Completion  of  the  Boa
+Vista-Georgetown, Guyana, Highway is also proposed. All of
+these projects would have substantial environmental impacts.
+research provided the key to
+opening the cerrado to soy cultivation (Paterniani &
+Malavolta 1999), this is frequently presented in political
+discourse as proof positive that research will solve the
+remaining barriers to opening the vast humid tropics of
+Amazonia to similarly productive agriculture. Patriotic spirit
+is often claimed as the critical element: a few decades ago no
+one believed that the cerrado was good for anything, and
+now it is a great producer of soybeans. The next line in such
+rhetoric normally goes ‘If only we believe in Amazonia . . .’.
+Unfortunately, more than rhetoric is needed to make
+sustainable use of the Amazon, although rhetoric is often
+sufﬁcient to launch grandiose development programmes that
+lead to large-scale destruction for ephemeral rewards (see
+Fearnside 1986a). Severe limits restrain productive use of
+the very large areas contemplated in Amazonian develop-
+ment plans (Fearnside 1997a). These include limits on
+inputs, such as phosphates, that must be imported from
+elsewhere (Fearnside 1998). Topography and physical
+factors are most important for mechanized agriculture, as in
+the case of soybeans. The best soil
+in Amazonia on a
+commercially important scale (terra roxa: Alﬁsol) is usually
+associated with sloping topography. One question essential
+to evaluating Brazil’s national interest in promoting this land
+use is whether large-scale soybean cultivation is sustainable.
+Some locations contemplated for soybeans have soils with
+severe limitations. The National Development Bank (Brazil,
+EMBRAPA  1998:  Amazonas,  p.  60)  cautions  that  ‘without
+well-deﬁned  technical  criteria’  the  soil  could  be  rendered
+unusable by soybean cultivation in the counties of Humaitá,
+Canutama and Lábrea. This kind of warning is common in
+discussions of Amazonia development, such as the frequent
+warnings  of  EMBRAPA  that  pastures  will  produce  well  in
+Amazonia only with ‘adequate management’. The problem is
+that everyone involved knows that the ‘technical criteria’ or
+‘adequate management’ is unlikely to be applied in practice.
+The  result  is  that  later,  when  problems  occur,  government
+agronomists can always point the ﬁnger at the farmer for not
+having  used  ‘technical  criteria’  or  ‘adequate  management’:
+the blame is shifted from the government to the farmer for
+any failures that may occur.
+
+Environmental and social impacts
+
+Impacts of converting land to soybeans
+
+An obvious impact is the loss of natural ecosystems that are
+converted  to  soybeans.  However,  few  soybean  planters  cut
+
+Soybean cultivation in Brazil
+
+27
+
+forest themselves; instead they buy already cleared land from
+small farmers who will then move to frontier areas and clear
+more  (Carvalho  1999).  Many  small  farmers  who  now  are
+threatened  with  expulsion  from  their  land  in  Amazonia
+because  of  the  advance  of  soybeans  came  to  the  region  as  a
+result of being expelled from small farms on older frontiers
+such as Paraná.
+
+When  land  is  converted  to  mechanized  crops  like
+soybeans,  most  of  the  human  population  is  expelled,  and
+many  move  on  to  deforest  elsewhere  (Carvalho  1999).  In
+Paraná,  soybeans  replaced  small  farmers  growing  maize,
+beans and other food crops, in addition to coffee. The rise of
+soybeans  displaced  11  agricultural  workers  for  every  one
+ﬁnding employment in the new production system (Zockun
+1980).  In  the  1970s,  2.5  million  people  left  rural  areas  in
+Paraná; in the same period, the number of farms declined by
+109 000  in  Paraná  and  300 000  in  Rio  Grande  do  Sul
+(Kaimowitz  &  Smith  2001).  Although  most  small  farmers
+who were displaced moved to urban areas, many migrated to
+frontier areas in Rondônia via the new World Bank-ﬁnanced
+BR-364 Highway, where they were a key factor in one of the
+world’s  most  rapid  explosions  of  tropical  deforestation
+activity (Fearnside 1986b, 1987a).
+
+The  Brazilian  cerrado  has  suffered  particularly  heavy
+losses to the advance of soybeans. For many years, environ-
+mental concerns led to recommendations to favour cerrado as
+a  substitute  for  rain  forest  clearing  (see,  for  example
+Goodland et al. 1978). There is some regret of this now that
+the cerrado is fast disappearing. Remaining areas of cerrado
+have  biodiversity  importance  that  rivals  that  of  equivalent
+areas  of  Amazonian  forest  (Dinerstein  et  al. 1995).  The
+cerrado,  with  only  1.5%  in  federal  reserves  (Ratter  et  al.
+1997), is one of the least-protected ecosystems in Brazil. Less
+protected  still  is  the  ecotone  between  forest  and  cerrado,  a
+strip that has a higher number of endemic species of plants
+than  either  ‘pure’  forest  or  cerrado  (Fearnside  &  Ferraz
+1995).
+
+Agrochemicals used to combat diseases, insects and weeds
+in  soy  cultivation  can  have  impacts  on  the  environment,  as
+well  as  on  the  people  who  are  exposed  to  them.  This  is  a
+particular  concern  with  respect  to  plans  for  expansion  of
+soybeans in the várzea (ﬂood plain) near Santarém (Carvalho
+1999). During the low-water period, ﬂood plain lakes shrink
+or  dry  up,  concentrating  ﬁsh  that  are  easily  caught.  If  the
+surrounding land is under soybeans, the high doses of agro-
+chemicals used on this crop can be expected to concentrate in
+the lakes and in the ﬁsh.
+
+Soybean cultivation provokes soil compaction and erosion
+(Barber et al. 1996). Aeolean erosion may be particularly
+severe in Mato Grosso State, but no measurements of losses
+exist
+( Jean Dubois, President, Brazilian Network for
+Agroforestry, personal communication 1999). An idea of the
+consequences from soil degradation can be gained from the
+experience in Bolivia. In the area near the city of Santa Cruz,
+where soybeans have been an important land use since the
+1970s, degradation is already severe (Alan Bojanic, former
+
+28
+
+Philip M. Fearnside
+
+director of Center for Research in Tropical Agriculture
+(CIAT), Santa Cruz, Bolivia branch ofﬁce, personal
+communication 1999). This raises doubts about the long-
+term sustainability of rapidly-expanding areas in Amazonia,
+as the soils near Santa Cruz are Entisols that are more fertile
+than the soils on the Brazilian Shield located in the northern
+and eastern parts of the Bolivian lowlands, as well as in
+Brazil. At least initially, soils around Santa Cruz can be
+cultivated without
+applications,
+contrasting sharply with soils in Brazilian cerrado and
+(Alan Bojanic, personal
+Amazonian forest
+communication 1999). In the late 1990s, over 100 000 ha of
+soy land was abandoned to cattle pasture because of soil
+exhaustion, and the three major Mennonite settlements that
+had farmed the area have moved to clear forest land farther
+north (Alan Bojanic, personal communication 1999). The
+area of relatively fertile soils is rapidly coming to an end for
+further movement of this mechanized version of shifting
+cultivation.
+
+locations
+
+fertilizer
+
+lime
+
+and
+
+Because  soybeans  require  heavy  capital  investment  in
+machinery,  land  preparation,  and  agricultural  inputs,  this
+crop is inherently the domain of wealthy agribusiness entre-
+preneurs  rather  than  poor  farmers.  Extreme 
+income
+concentration  has  been  associated  with  soybeans  wherever
+they have spread in Latin America (Kaimowitz et al. 1999).
+Income concentration and the associated political inﬂuence of
+powerful elites have negative repercussions throughout soci-
+eties where these transformations are taking place.
+
+Short-term plans for infrastructure 
+
+Road to the Paciﬁc
+Plans for soybean production in the state of Acre are given as
+a justiﬁcation for building the Road to the Paciﬁc, either via
+Assis  Brasil  (in  southern  Acre)  and  Cuzco,  Peru,  or  via
+Cruzeiro do Sul (in western Acre) and Pucallpa, Peru (Fig.
+3). However, the economic viability of transporting soybeans
+across the Andes by truck has yet to be shown. Lack of econ-
+omic  viability  does  not  imply  guaranteed  protection  of  the
+environment from such projects. Whether or not soy export
+via  the  Andes  is  economic,  it  can  provide  an  excuse  for
+expensive  public  works  to  go  forward,  propelled  by  the
+ﬁnancial interests of construction contractors and by electoral
+use  of  the  project.  The  Balbina  and  Jatapu  Dams  provide
+well-documented  examples  (Fearnside  1989;  Fearnside  &
+Barbosa 1996).
+
+Infrastructure  projects 
+
+implanted  with  the  primary
+purpose  of  transporting  soybeans  will  have  effects  on  the
+economic  attractiveness  of  other  commodities,  with  conse-
+quent impacts on the environment. Timber export from Acre
+on the Road to the Paciﬁc provides an example. 
+
+Paraguay-Paraná (Pantanal) Waterway
+Impacts of the Paraguay-Paraná Waterway (Fig. 2) would be
+substantial, posing a threat to the wildlife and general biodi-
+versity of the Pantanal (Blumenschein et al. 1999; Hamilton
+
+1999),  and  the  portion  of  the  waterway  from  Corumbá  to
+Cáceres would be the worst stretch in the region (Buscher &
+Huszar 1995).
+
+The Brazilian government announced in March 1998 that
+it was dropping plans for the Paraguay-Paraná Waterway (see
+Associated Press 1998). This kind of announcement provides
+only fragile protection from damaging projects of this kind, as
+recently made clear by the case of the Babaquara Dam on the
+Xingu  River.  Since  1992  government  ofﬁcials  have  made
+innumerable  statements  declaring  that  this  dam  will  not  be
+built, but now it has appeared with a new name (the Altamira
+Dam) in the current decennial plan (Brazil, ELETROBRÁS
+1998,  p.  148)  with  completion  scheduled  for  2013.  The
+problem  is  that  we  lack  a  legal  mechanism  by  which  the
+government can make irrevocable commitments not to build
+speciﬁc  projects  that  are  known  to  be  damaging.  Like
+Babaquara,  the  Corumbá-Cáceres  stretch  of  the  Pantanal
+Waterway  has  now  quietly  resurfaced  with  inclusion  in  the
+‘Forward  Brazil’  portfolio  (Consórcio  Brasiliana  2000)  and
+with work on a new port facility near Cáceres (Switkes 2000).
+
+for 
+
+(RIMA) 
+
+impact  statement 
+
+Tocantins-Araguaia Waterway
+The  Tocantins-Araguaia  Waterway  (Fig.  2)  would  expose
+Bananal Island, the site of both the Araguaia Indigenous Park
+and the Araguaia National Park, to wave action, and would
+negatively affect ﬁsheries in the river (Cohen 1995; Switkes
+1999). The environmental impact study (EIA) and environ-
+this  waterway
+mental 
+(FADESP 1996a,b) omitted portions of the original text that
+mentioned  expected  increases  in  mortality  in  tribes  in  the
+Araguaia Indigenous Park due to the effect of pollution and
+barge  trafﬁc  on  ﬁsheries  resources.  This  has  led  to  accu-
+sations by the anthropologists who worked on the EIA that
+the version of the EIA and RIMA reports submitted to the
+Brazilian  Institute  of  the  Environment  and  Renewable
+Natural Resources (IBAMA) was ‘unscrupulous and in bad
+faith’ (Carvalho 1999). Multiple failings in the RIMA led to
+a court order in June 1997 suspending work on this waterway
+(Switkes 1999). Among other failings, there is no mention of
+what  would  be  done  with  2.5  million  m3 of  sediment  to  be
+dredged  from  the  river  and  204 000  m3 of  rocks  to  be
+exploded  (Novaes  1998).  The  report  failed  to  mention  that
+the river is too dry to navigate from June to November, the
+time of year when soybeans would be harvested. It assumed
+transportation  of  30  million  tonnes  of  soybeans  per  year,
+which  is  six  times  the  current  production  of  Mato  Grosso,
+and,  without  naming  a  single  product,  supposed  that  the
+barges  would  carry  return  freight  equal  to  50%  of  this
+capacity (Novaes 1998). The waterway would compete with
+the  North-South  Railway  for  transporting  production  from
+many  of  the  same  soy-producing  areas.  The  public  hearing
+for the waterway was suspended on 22 September 1999 by a
+judicial ruling in favour of the anthropologists who had been
+misrepresented 
+in  the  report  (Silveira  1999).  On  29
+September  1999,  the  construction  consortium  obtained  a
+counter-ruling,  allowing  preparations  for  the  waterway  to
+
+proceed 
+(Radiobrás  1999).  The  Tocantins-Araguaia
+Waterway  continues  to  be  a  priority  project  under  the
+‘Forward Brazil’ programme (Consórcio Brasiliana 2000).
+
+The  Tocantins-Araguaia  Waterway  would 
+
+include
+installing shiplocks in Tucuruí Dam and in a long series of
+planned hydroelectric dams on those rivers (Fearnside 1999).
+The path of the waterway includes a 925-m change in eleva-
+tion.  The  question  of  how  decisions  will  be  reached  on
+whether to install locks in dozens of dams is a delicate one, as
+Brazil’s  Minister  of  Development  since  14  September  1999
+had,  until  his  appointment,  been  president  of  the  Camargo
+Corrêa  construction  company  (Anon.1999b).  At  the  time  of
+his  appointment,  Camargo  Corrêa  was  already  installing
+locks  in  the  ﬁrst  dam  (Tucuruí)  and  was  best  positioned  to
+obtain  all  of  the  contracts  along  the  Tocantins-Araguaia
+Waterway.
+
+Teles Pires-Tapajós Waterway
+Work  on  the  Teles  Pires-Tapajós  Waterway  (Fig.  2)  was
+suspended  by  a  court  order  in  June  1997  because  its  EIA
+omitted mention of impacts on indigenous people along the
+route (Novaes 1998). Impacts on the Mundurucu tribe were
+omitted by a division of the report into two sections, one for
+the stretch below the tribe and the other for the one above it,
+and simply neglected to make any mention of the existence of
+the tribe (Novaes 1998). Omitting mention of the Indians was
+a  means  of  avoiding  the  constitutional  requirement  of
+obtaining project approval from Congress.
+
+Madeira Waterway
+In  March  1997,  barges  began  to  arrive  in  Itacoatiara,
+Amazonas, at a new soy terminal that had been largely paid
+for by the state government (Anon. 1997a). The warehouse
+has storage capacity for 90 000 tonnes, and in a second phase,
+this  will  be  doubled  (Luís  Antônio  Pagot,  Director,
+HERMASA Navegação da Amazônia, SA, public statement
+1997). Since the terminal began operation, 145 trucks per day
+have  been  arriving  in  Porto  Velho  (Fig.  3)  loaded  with
+soybeans. Soybeans are transferred to barges to go down the
+Madeira  River  to  the  port  of  Itacoatiara,  where  they  are
+stored and loaded on ships for export. This new export route
+has cut the transport cost by a factor of three (Luís Antônio
+Pagot, public statement 1997), thereby radically changing the
+economic context for agriculture in the Madeira River basin.
+For the time being, the soy comes from savanna areas in
+Mato  Grosso  State,  especially  Sapezal,  at  the  centre  of  the
+Maggi  soy  empire  (Vieira  &  Giraldez  1999).  However,  the
+government  of  Amazonas  State 
+is  giving  priority  to
+promoting  soybeans  and  irrigated  rice  in  the  campos  de
+Humaitá,  a  natural  grassland  in  the  southern  part  of
+Amazonas  (Anon.  1997b).  The  classic  study  on  soils  of  the
+campos  de  Humaitá  condemned  this  area  for  agricultural
+development due to the laterisation danger (Gross Braun &
+de  Andrade  Ramos  1959).  Although  the  danger  of  wide-
+spread laterisation in Amazonia has often been exaggerated,
+in places where the water table ﬂuctuates the danger is real
+
+Soybean cultivation in Brazil
+
+29
+
+(Sánchez  1976).  Soils  in  the  campos  de  Humaitá  have
+impeded drainage, causing the water table to ﬂuctuate close
+to the surface (Fearnside 1997b). 
+
+The  Maggi  group,  which  installed  the  port,  plans  to
+expand its plantations in the campos de Humaitá, provided
+that it is permitted by the economic-ecological zoning of the
+area,  now  being  effected  by  the  state  government  (Luís
+Antônio Pagot, public statement 1997). Maggi has conducted
+agricultural  experimentation  at  the  site  since  1993,  and  the
+belief is that laterisation would not be a problem because soil
+can be drained by installing canals that would lead the water
+to the streams (Luís Antônio Pagot, public statement 1997). 
+The Waterway and soy terminals bring little local beneﬁt.
+The  Itacoatiara  terminal  employs  only  17  people  (Osava
+1999).  Tax  beneﬁts  are  also  minimal  because,  since  1996,
+Complementary  Law  No.  87,  better  known  as  the  ‘Kandir
+Law’, has exempted products bound for export from paying
+the  tax  on  services  (ISS)  that  would  otherwise  go  to  the
+county  governments  (Carvalho  1999).  Prior  to  the  exemp-
+tion,  Brazilian  soybean  growers  were  at  a  disadvantage
+compared 
+their  Bolivian  competitors,  who  paid
+US$37.17/t less in taxes (Monitor Company 1994).
+
+to 
+
+The  Madeira  Waterway  provides  a  good  example  of  a
+generic  problem  with  infrastructure  projects  of  this  kind,
+namely,  evolution  of  the  projects  after  construction  has
+begun,  leading  to  greater  impacts  than  those  considered  in
+the original EIA and RIMA. In practice, pressure generated
+by the economic activity already all but guarantees approval
+of  any  request  for  additional  infrastructure.  After  soybean
+shipments began, HERMASA (the barge company owned by
+Maggi) requested that the Rondônia state government allow
+shortcutting a sharp bend in the Madeira River downstream
+of Porto Velho, which would cut through the Cuniã Lake at
+the Cuniã Ecological Station, a protected area. The cut could
+lead to draining the wetlands and riverine lakes that harbour
+the  abundant  wildlife  for  which  the  ecological  station  was
+created. Plans for river straightening were not included in the
+proposal  considered  by  the  current  EIA  and  RIMA  for  the
+waterway,  which  was  approved  in  1999.  The  planned
+increase  in  barge  trafﬁc  from  an  initial  300 000  t/year  to  3
+(HERMASA  1995,  cited  by
+million 
+Blumenschein et al. 1999) implies need to both straighten the
+river bed and remove the rock obstructions along the route.
+The  EIA  and  RIMA  only  covered  removal  of  three  rock
+obstructions.  Without  these  modiﬁcations,  the  waterway  is
+only  passable  during  the  high-water  period.  The  total
+number of obstructions that would need to be removed has
+been variously stated as six (Luis Antônio Pagot, public state-
+ment 1997) to nine (Blumenschein et al. 1999).
+
+t/yr  by  2000 
+
+Boa Vista-Georgetown Highway
+A  proposed  all-weather  highway  from  Boa  Vista  to
+Georgetown,  Guyana,  would  provide  a  600-km  route  for
+export from Roraima, whose governor is attempting to attract
+soybean growers from the south and central-west regions of
+Brazil  by  offering  such  inducements  as  exemption  from  all
+
+30
+
+Philip M. Fearnside
+
+taxes for 20 years, the cheapest land in Brazil (US$5–50/ha),
+and  the  services  of  a  government-sponsored  co-operative
+(COOPERNORTE;  Veríssimo  1999).  In  August  1999,  the
+Roraima  state  government  chartered  an  aeroplane  to  ﬂy  60
+prospective  investors  to  the  state;  the  goal  was  to  invest
+US$300  million  over  ﬁve  years  and  to  have  200 000 ha  of
+soybeans  in  Roraima  by  2003  (Veríssimo  1999).  Like  the
+Road  to  the  Paciﬁc,  although  the  arguments  for  the  Boa
+Vista-Georgetown  Highway  are  largely  based  on  soybeans,
+much of the project’s environmental impact would probably
+be felt through effects on other commodities. In this case, the
+notoriously-destructive  Malaysian  logging  companies  with
+concessions in Guyana are likely to be major beneﬁciaries (cf.
+Colchester 1994; Veening & Groenendijk 2000).
+
+Santarém-Cuiabá Highway
+A 75 000-tonne capacity soybean terminal at Santarém, Pará,
+began operation in May 2000 (see Carvalho 1999). Plans for
+producing  soybeans  include  paving  the  Santarém-Cuiabá
+Highway  (BR-163),  part  of  ‘Forward  Brazil’,  and  improve-
+ment  of  the  waterway  from  Itaituba  to  Santarém  (Fig.  3),
+where  soybean  planting  would  also  be  promoted  in  the
+varzea.
+
+The Santarém-Cuiabá Highway is an area that is already a
+major  source  of  illegally  cut  mahogany  (Fearnside  1997c).
+Political pressure for paving the road is led by Blairo Maggi,
+senator from Mato Grosso and head of the Maggi Group that
+is ﬁnancing soy planting in Santarém and construction of the
+Santarém and Itaituba soy terminals. The campaign included
+a  caminhonaço (truck  caravan)  travelling  along  the  route  in
+May 1999 to demonstrate the viability of exporting soybeans
+from  northern  Mato  Grosso  through  the  port  of  Itaituba
+(Vieira & Giraldez 1999).
+
+Capim River Waterway
+The Capim River Waterway would give barge access to the
+Paragominas soybean pole, connecting it with the deep-water
+port in Barcarena.
+
+North-South Railway
+The North-South Railway would connect Goiânia in Goiás
+State, with Açailândia in Maranhão, where it would connect
+with the Carajás Railway leading to the ports of Itaiquí and
+Ponto  da  Madeira  near  São  Luís  (Fig.  3).  The  Carajás
+Railway  has  been  functioning  for  iron-ore  transport  since
+1984. Part of the North-South Railway was built in 1988 but
+was halted as a result of a major ﬁnancial scandal.
+
+Ferronorte Railway
+The  portion  of  the  Ferronorte  Railway  included  in  the
+‘Forward  Brazil’  Programme  would  connect  Uberaba  and
+Uberlândia,  in  Minas  Gerais  to  Cuiabá,  Mato  Grosso,  and
+then with Vilhena, Rondônia (Fig. 3). The railway will also
+connect  to  the  rail  network  in  the  State  of  São  Paulo
+(FEPASA) at Santa Fé do Sul. The route would pass through
+major soybean areas such as Rondonópolis. Construction of
+
+the bridge over the Paraná River was completed in January
+1998.
+
+Other highways
+In 1996 the 450km MT-235 Highway was completed cutting
+across the Chapada dos Parecis of Mato Grosso from east to
+west  from  Comodoro  to  Sapezal  and  Campo  Novo  dos
+Parecis (Fig. 3). Large areas were cleared for soybeans along
+the  route  in  its  ﬁrst  year,  in  anticipation  of  export  via  the
+Madeira Waterway (Blumenschein et al. 1999).
+
+Highways from Maranhão to Minas Gerais link the major
+soybean  production  area  around  Balsas, 
+in  southern
+Maranhão,  with  the  road  system  in  Minas  Gerais,  also
+providing access to agricultural areas in state of Piauí. These
+highways, which were paved for soybean transport under the
+World  Bank’s  highway  improvement  loan  for  Maranhão,
+Piauí and Tocantins, pass through the best-preserved area of
+remaining  cerrado  vegetation,  according  to  the  Brazilian
+Institute of Space Research (INPE) study of 1992 and 1993
+satellite  images  that  found  65%  of  the  cerrado  had  been
+cleared for pasture, agriculture and urban settlements by that
+time (Mantovani & Pereira 1998, cited by Stedman-Edwards
+1999).
+
+A  road  construction  and  soybean  project  in  Apuí  on  the
+Transamazon Highway in the south-east corner of the state
+of  Amazonas  is  of  particular  concern  both  for  its  potential
+impacts and for the extent to which this case has revealed the
+inability of Brazil’s environmental regulatory mechanisms to
+function in practice. The municipal government of Apuí and
+the government of the adjacent county in Mato Grosso began
+building a road to connect the two (Anon. 1999c). The road,
+which is not part of ‘Forward Brazil’, was being built without
+any form of environmental impact statement or approval, and
+was  halted  by  the  Amazonas  state  environmental  agency  in
+September  1999  (Anon.  1999d).  Brazil’s  constitution  and
+legislation  require  an  EIA  and  RIMA  for  all  highways.
+However, no criteria of what constitutes highway construc-
+tion,  as  opposed  to  improvement,  are  given.  In  practice,
+proponents  can  claim  that  even  an  illegal  logging  track
+through  the  forest  can  be  upgraded  by  degrees  to  a  paved
+thoroughfare  without  being  considered  highway  ‘construc-
+tion’  (Francisco  Arguelles,  Public  Ministry  of  the  State  of
+Amazonas, Specialized Prosecutor’s Ofﬁce for Defense of the
+Environment  and  Historical  Patrimony  (PRODEMAPH),
+Manaus, personal communication 1999).
+
+The  road  from  Aripuanã  in  Mato  Grosso,  to  Apuí  in
+Amazonas,  will  connect  with  an  existing  road  connecting
+Apuí  to  the  port  of  Novo  Aripuanã  in  Amazonas,  on  the
+Madeira River (Fig. 3). This road was built without beneﬁt of
+an EIA and RIMA by claiming that it was merely improving
+access  roads  to  settlements  implanted  by  the  National
+Institute  of  Colonization  and  Agrarian  Reform  (INCRA).
+The two roads would reduce the distance that soybeans must
+travel by truck from production areas in north-western Mato
+Grosso.  The  Maggi  Group  is  reportedly  helping  with
+construction  of  the  Aripuanã-Apuí  road  and  with  improve-
+
+ment  of  the  Apuí-Novo  Aripuanã  Road.  The  Soybean
+Producers  Co-operative  of  Amazonas  (COPASA),  which  is
+led  by  Maggi,  is  attempting  to  obtain  title  to  850 000 ha  of
+terras  devolutas (government  land)  in  the  county  of  Novo
+Aripuanã  (Fachel  1999).  COPASA  publicly  encouraged
+farmers  to  clear  new  areas  as  quickly  as  possible  between
+December 1998 and August 1999 so that the areas could be
+used for soy planting (Carvalho 1999). Maggi has promised to
+buy  all  soybeans  produced  by  the  co-operative  (Carvalho
+1999). COPASA has encouraged migrants to come to the area
+to  clear,  and  a  total  of  85 000 ha  has  been  deforested  so  far
+(Fachel 1999). It is unclear what will become of the migrants
+once the land is converted to soybeans, since employment in
+soybean production is minimal.
+
+Long-term plans for infrastructure
+
+It  is  unlikely  that  funding  for  all  of  the  infrastructure
+described  in  the  ‘Forward  Brazil’  Programme  will  become
+available within the 2000–2003 time span of the programme.
+However,  we  can  expect  the  same  overall  plan  to  be  main-
+tained while the time scale is extended to conform to funding
+restrictions.  Beyond  the  ‘Forward  Brazil’  Programme,  a
+number  of  additional  soybean  transportation  projects  are
+planned  (Table  1).  Each  of  these  would  have  substantial
+environmental impacts.
+
+Soybean cultivation in Brazil
+
+31
+
+Impacts of soy-related industries
+
+Processing  industries  and  other  activities  associated  with
+soybeans  can  also  have  impacts,  especially  by  stimulating
+expansion of plantations. Brazil’s soybean-crushing mills are
+mainly located near the older producing areas in the southern
+part  of  the  country.  Additional  crushing  facilities  are  being
+planned,  including  one  in  Itacoatiara,  Amazonas,  with
+Venezuelan capital (Anon. 1999a). The ‘sunk costs’ of indus-
+trial  and  storage  facilities  was  a  major  factor  empowering
+Brazil’s  soybean  lobby  in  the  1980s  in  their  efforts  to  gain
+additional  government  subsidies  for  expanded  planting.  In
+1982  Brazil’s  processing  capacity  was  double  what  was
+needed for the size of the soybean crop because of incentives
+that  had  been  given  for  processing  facilities  (Williams  &
+Thompson 1984).
+
+Since a large part of Brazil’s soybean harvest is shipped to
+Rotterdam  and  then  fed  to  European  pigs,  Holambra  (a
+Dutch  agribusiness  ﬁrm  in  São  Paulo)  proposed  settling  a
+colony  of  Dutch  pig  farmers  in  Mato  Grosso.  This  would
+obviously  eliminate  much  of  the  transportation  required  by
+the  current  arrangement.  It  should  be  remembered  that
+industrial-scale  swine  raising  produces  substantial  pollution
+from  manure  and  urine,  as  is  now  occurring  in  the
+Netherlands. Brazil’s swine industry, which is concentrated
+in Santa Catarina State, has the same problems.
+
+Another Dutch proposal foresaw shipment of manure
+
+Table 1 Beyond ‘Forward Brazil’: long-term plans for soy infrastructure. a May be either via Assis Brasil, Acre and Cuzco,
+Peru, or via Cruzeiro do Sul, Acre and Pucallpa, Peru. b Maggi plans to plant 500 000 ha of soybeans in Roraima if the Rio
+Branco Waterway proves feasible (Gonçalves 1998). In addition, the Grãos Norte Programme hopes to increase the area of
+soybeans in the state from near zero in 1999 to 200 000 ha in 2005 for export soybeans by road via Venezuela (Mary Helena
+Allegretti, Secretary for Amazonia, Ministry of the Environment, public statement 1999).
+
+Project
+Road to the Paciﬁc
+
+Starting location
+Rio Branco, Acre
+
+Ending location
+Una, Perua
+
+Rio Branco Waterwayb
+
+Itacoatiara, Amazonas
+
+Boa Vista, Roraima
+
+Açaílândia–Belém Railway
+
+Açaílândia, Maranhão
+
+Belém, Pará
+
+Cuiabá-Santarém Railway
+
+Cuiabá, Mato Grosso
+
+Santarém, Pará
+
+Cuiabá-Porto Velho Railway
+
+Cuiabá, Mato Grosso
+
+Porto Velho, Rondônia
+
+Madeira-Mamoré Railway
+Guaporé-Mamoré Waterway
+
+Guajará-Mirim, Rondônia
+Vila Bela de Santíssima
+
+Porto Velho, Rondônia
+Guajará-Mirim, Rondônia
+
+Trindade, Mato Grosso 
+
+Orinoco-Rio Negro Waterway
+
+Itacoatiara, Amazonas
+
+Puerto Ayacucho, Venezuela
+
+Status
+Announced as a goal by President Ferrnando 
+Henrique Cardoso, only the Brazilian 
+portions (Sena Madureira-Cruzeiro do Sul
+and Rio Branco-Assis Brasil) are included 
+in the Forward Brazil programme.
+
+Appears on Ministry of Transportation maps 
+(Brazil, Ministério dos Transportes 1999), 
+but not included in Forward Brazil.
+
+Appears on Ministry of Transportation maps 
+(Brazil, Ministério dos Transportes 2000), 
+but not included in Forward Brazil. 
+
+Appears on Ministry of Transportation maps 
+(Brazil, Ministério dos Transportes 2000), 
+but not included in Forward Brazil.
+
+Appears on Ministry of Transportation maps 
+(Brazil, Ministério dos Transportes 2000), 
+but not included in Forward Brazil.
+
+Announced by Amazonas state governor 
+Amazonino Mendes (Anon. 1999a) 
+
+32
+
+Philip M. Fearnside
+
+from the Netherlands to Amazonia, using the return journey
+of the ships that bring soybeans to Rotterdam. The manure
+would be used as fertilizer in Amazonia. While the proponents
+of the scheme envisage manure increasing the sustainability of
+Amazonian agriculture and reducing deforestation, the result
+would probably be more complex. Increasing the proﬁtability
+of agriculture normally has the opposite effect on deforesta-
+tion (Fearnside 1987b). The plan has apparently not advanced
+due to opposition by Brazilian non-governmental organiz-
+ations concerned over possible contamination by heavy metals
+and growth hormones (Wim G. Sombroek, International
+Soils Reference Information Centre (ISRIC), Wageningen,
+the Netherlands, personal communication 1999).
+
+Future prospects: dynamics of soybean
+expansion
+
+Lobbies and subsidies
+
+Lobbies operate at federal, state and municipal levels. State-
+level  development  decisions  are  strongly  inﬂuenced  by
+soybeans. In Maranhão, for example, the head of planning in
+the state government has a rapidly expanding soybean empire
+in  the  Balsas  area  of  the  state.  Pending  decisions  include
+revoking part of the Serra do Mirador (Itapecuru) State Park,
+in  the  upper  Itapecuru  Valley  of  Maranhão.  A  part  of  the
+park  that  is  suitable  for  soybeans  would  be  exchanged  for
+protecting areas elsewhere in the state (Afonso Henriques de
+Jesus Lopes, Coordinator for Maranhão, Natural Resources
+Sub-Program  (SPRN),  Pilot  Program  to  Conserve  the
+Brazilian  Rainforest  (PP-G7),  São  Luis,  Maranhão,  public
+statement 1999).
+
+In Maranhão, the babassu palm (Attalea, formerly Orbignya
+spp.) has traditionally been a source of oil and a variety of other
+products. Improving industrial means of using these palm
+fruits has long been a priority for sustaining the local popu-
+lation living from babassu extractivism (May 1990). The State
+Institute of Babassu (INEB) was created by the government of
+Maranhão for this purpose, but after only four years it was
+abolished in 1984. In Maranhão, it is widely believed that the
+reason was the governor’s ﬁnancial interests in soybeans, with
+which babassu was still competing, at that time, as a source of
+oil in the local market (for example Cleary 2000).
+
+Family  agriculture  in  Maranhão  is  rapidly  retreating
+before the advance of soybeans, aggravating social disparities
+in  a  state  that  is  already  notorious  for  poverty  and  social
+inequalities  (Carneiro  1999).  Maranhão  is  also  one  of  the
+largest  sources  of  migrants  to  Amazonia,  supplying  popu-
+lation to both pioneer settlement areas and the gold-rush in
+garimpos (wildcat mining areas) (see, for example MacMillan
+1995;  Cleary  2000).  Gold-mining  causes  severe  environ-
+mental  and  social  impacts,  including  mercury  pollution,
+release of large quantities of sediment into the headwaters of
+lands,
+Amazonian  rivers,  and 
+exposing the Indians to disease, violence and deculturation,
+as  well  as  impeding  the  recognition  and  demarcation  of
+reserves.
+
+invasion  of 
+
+indigenous 
+
+The expulsion of population from Maranhão has also led to
+deforestation by landless migrants in Amazonia, as well as
+supplying the largest source of cheap labour used by
+Amazonian ranchers for their clearing. Of 19 landless peasants
+massacred by federal police at Eldorado dos Carajás, Pará, in
+1996, seven (37%) were from Maranhão (Anon. 1996).
+
+State  governments  have  been  instrumental  in  promoting
+the  rapid  entry  of  soybeans  into  Amazonia.  In  Amazonas
+State,  an  agricultural  promotion  scheme  that  includes  the
+Humaitá soybean and irrigated rice areas was a centrepiece of
+the governor’s campaign in the 1998 gubernatorial election.
+Establishing  soybean  areas  in  Humaitá  would  have  been
+unlikely  without  the  wide  range  of  subsidies  given  by  the
+state. Fertilizer was brought from Israel by the state govern-
+ment  and  distributed  with  payment  due  only  after  the
+harvest.  Fertilizer  from  Cubatão,  near  Santos,  São  Paulo
+(3340  km  away)  would  cost  US$200/t  (Brazil,  EMBRAPA
+1998: Amazonas), considering the mid-1999 exchange rate of
+R$1.7 (cid:3) US$1. Lime, which does not exist in the Humaitá
+area, was brought by truck from Pimenta Bueno, Rondônia
+(700  km  away)  and  distributed  free  of  charge.  Lime  in
+Pimenta Bueno costs US$7.05/t, and freight to Humaitá is
+US$22.94/t.  The  capacity  of  the  Pimenta  Bueno  deposit  is
+266  million  t  (Brazil,  EMBRAPA  1998:  Amazonas,  p.  65).
+The  next  nearest  deposit  is  in  Cáceres,  Mato  Grosso  (1440
+km  away),  where  lime  costs  US$6.47/t  and  freight  to
+Humaitá is US$29.41/t.
+
+Lime  is  now  being  shipped  to  Humaitá  by  barge  from
+Urucará on the Jatapu River (1000 km by river; Fig. 3); the
+capacity of the Urucará deposit is 48 million tonnes. The next
+nearest  deposit  accessible  by  river  is  in  Maués,  Amazonas
+(1200  km  by  river),  with  a  capacity  of  175  million  tonnes
+(Brazil, EMBRAPA 1998: Amazonas, p. 66).
+
+Lime, and its transportation, is generally considered the
+main expense
+in establishing soybean cultivation in
+Amazonia. The Humaitá soybean pole is extreme in having
+no lime deposit nearby. The pole in Redenção, Pará, has a
+lime deposit considered to be of poor quality (Carvalho
+1999). The pole at Santarém beneﬁts from a large lime
+deposit near Itaituba (Fig. 3). Apuí in Amazonas has a lime
+deposit in the county that is not yet developed; poor road
+conditions between Apuí and Humaitá have kept
+this
+from entering current plans for supplying the
+deposit
+Humaitá
+(Brazil, EMBRAPA 1998:
+Amazonas).
+
+soybean
+
+pole
+
+Lime  must  be  reapplied  every  three  years.  The  lime
+requirement  is  4–8  t/ha  if  calculated  on  the  basis  of
+aluminium saturation (Brazil, EMBRAPA 1998: Amazonas,
+p. 62). If lime requirement is estimated considering calcium
+and magnesium in addition to aluminium, the requirement is
+7–8 t/ha (Brazil, EMBRAPA 1998: Amazonas, p. 62). Less-
+massive lime requirements represents one of the inducements
+for  movement  of  soybeans  into  Amazonia,  as  less  lime  is
+required in recently cleared forest as compared to cerrado. In
+forest, 2 t/ha of lime are required, versus 4–6 t/ha in cerrado
+(Homma & Carvalho 1998).
+
+The government subsidy for soybeans goes beyond the
+visible infrastructure planned under programmes such as
+‘Forward Brazil’, which is the ﬂagship of the current presi-
+dential administration. Agricultural credit for purchase of
+inputs, such as seeds and chemicals, and especially for trac-
+tors and other machinery, is given at rates well below those
+that would apply on the basis of standard ﬁnancial calcula-
+tions, especially if the risk of default is taken into account.
+Brazilian agricultural credit has long been heavily inﬂuenced
+by lobbies from large producers, and soybeans have been a
+favourite crop because the large farmers who produce them
+have secure land titles, collateral, and lower transaction
+costs for banks (Helfand 1999, p. 7). Because soybean prices
+are subject to ﬂuctuations, and because bad weather, insects,
+and other misfortunes may reduce production,
+farmers
+often ﬁnd loans ﬁnancially difﬁcult to repay. Since price
+cycles and agricultural problems affect all farmers simul-
+taneously, the farm lobby (known as ruralistas in Brazil)
+represents a signiﬁcant interest group to apply pressure on
+the government to make special concessions. On several
+occasions, the government has simply cancelled all agricul-
+tural debts, amounting to a subsidy that often totals tens of
+billions of US dollars to the agricultural sector. In 1999,
+pressure from the farm lobby led to a partial amnesty of the
+year’s agricultural debts (Provisional Measure 1918) that
+will cost an undisclosed amount considerably higher than
+the US$4 billion cost of the previous agreement with the
+farm lobby (Anon. 1999e).
+
+The soy lobby is credited with obtaining federal subsidies
+allowing soybeans to expand into areas that were more distant
+and  had  poorer  soils  than  would  have  been  justiﬁed  in  the
+absence of subsidies (Kaimowitz & Smith 2001). Particularly
+important  is  northern  Mato  Grosso,  where  environmental
+impacts  of  soybean  expansion  are  particularly  strong.  In
+addition  to  subsidized  credit,  in  the  mid-1980s  the  federal
+government  maintained  the  Minimum  Price  Guarantee
+Policy (Goldin & de Rezende 1993). This meant that farmers
+received the same price regardless of their location, encour-
+aging  expansion  to  distant  frontiers  where  market  forces
+would  otherwise  have  rendered  soybeans  unproﬁtable
+(Kaimowitz & Smith 2001). In the 1980s, another subsidy to
+distant  plantations  was  Brazil’s  uniﬁed  price  for  petroleum
+products,  where  the  same  price  for  fuel  was  charged
+throughout  the  country.  Transport  to  and  from  far-ﬂung
+locations  thereby  received  a  subsidy  from  fuel  consumers
+located near Brazil’s ports and oil reﬁneries.
+
+Rarely  discussed  is  the  opportunity  cost  of  government
+money that is spent to subsidize soybeans. Clearly many uses
+for money exist that would have much greater returns for the
+welfare of the Brazilian people. We cannot know how much
+of  such  money  would  actually  go  to  health,  education,
+environment  and  other  areas  that  would  produce  greater
+social beneﬁts were the funds not used for soybeans. There is
+also  a  large  environmental  opportunity  cost  of  sacriﬁcing
+natural  ecosystems  such  as  Amazonian  forest  (Fearnside
+1997d).
+
+Soybean cultivation in Brazil
+
+33
+
+The transgenic seeds controversy
+
+The close link of soy cultivation to agribusiness-controlled
+genetic engineering is an additional source of controversy. The
+Brazilian government approval of use of transgenic soybeans
+would open the way for Monsanto’s Roundup-Ready™
+soybean seeds. The
+genetically-engineered Roundup-
+Ready™ seeds are resistant to Roundup ™ herbicide, or
+glyphosate, which is also manufactured by Monsanto.
+Roundup™ kills most other plants, including neighbouring
+farmers’ non-resistant soybeans, creating an additional motiv-
+ation for all to make the switch together. A wide variety of
+doubts have been expressed concerning the potential impacts
+of releasing genetically modiﬁed (GM) organisms into the
+environment (see, for example Halweil 1999; Labes 1999).
+The discovery that monarch butterﬂies can be killed by pollen
+from transgenic maize (Losey et al. 1999) has heightened
+concern for the lack of understanding of potential impacts; the
+contrast with the great care taken in introducing new pharma-
+ceutical products is very plain.
+
+Glyphosate herbicides are allegedly linked to reproductive
+disorders, genetic damage, liver tumours and developmental
+delays in mammals (Cox 1999; Labes 1999). These chemicals
+are also considered to adversely affect earthworms, beneﬁcial
+soil fungi and nitrogen-ﬁxing bacteria (Cox 1999). On the
+positive side, herbicide use reduces the need for plowing, with
+attendant soil compaction, erosion and carbon stock depletion.
+Brazilian soybean areas can be expected to be dominated by
+Roundup-Ready™ soybeans within a year or two after
+approval is obtained. In September 1998, Brazil’s National
+Technical Commission on Biotechnology approved trans-
+genic soybeans for planting in the country, but Brazilian
+non-governmental organizations obtained a judicial ruling in
+June 1999 requiring an EIA for transgenic soybeans (Arnt
+1999). Prior to the ruling, Monsanto expected that 50% of
+Brazil’s 13 million ha of soybeans would be converted to
+Roundup-Ready™ seeds by 2002 (Labes 1999). The techno-
+logical package for this variety results in higher yields at
+reduced cost under current price regimes. It bears mentioning,
+however, that this transformation will give Monsanto an effec-
+tive monopoly over a series of essential inputs in the soybean
+production process, thereby increasing the chance that prices
+of these inputs will be raised to the maximum level that the
+market will bear once the monopoly has been consolidated.
+
+At the least, a switch to transgenic soybeans in Brazil will
+make soy cultivation more proﬁtable and so speed the crop’s
+advance into Amazonia. On the other hand, if Brazil does not
+approve use of transgenic crops and demand for non-trans-
+genic soy in Europe results in a premium price, then this too
+could speed the advance of soybean growing in Amazonia, an
+effect that is already evident (Carvalho 1999).
+
+Limits to the spread of soybeans
+
+How far will soybeans go? The answer depends on the new
+equilibrium between supply and demand. It also depends on
+
+34
+
+Philip M. Fearnside
+
+the  point  beyond  which  each  country  considers  further
+expansion of soybeans to be contrary to national interest, in
+view of the environmental and social impacts of this land use.
+Discussions of Brazil’s national interest in soy production
+are  confused  by  the  terminology  adopted.  EMBRAPA  and
+other agencies active in promoting soybeans scarcely even use
+the  term  ‘soybeans’  (soja),  using  instead  the  term  grãos (a
+term  without  an  exact  English  equivalent,  referring  to  any
+crop where the useful part is the seed, including both grains
+and  pulses).  The  difference  between  soybeans  and  grãos  is
+much more than semantic. Like agro-pecuária (literally ‘agro-
+ranching’), the euphemism for cattle ranching in Amazonia,
+calling soybeans grãos serves to convey the implication that
+soy is feeding the people of Brazil along with rice, maize and
+wheat.  In  reality,  soybean  expansion  is  much  more  akin  to
+Brazil’s  long  history  of  predatory  exploitation  of  natural
+resources,  such  as  Brazilwood  in  the  Atlantic  forest,  and
+minerals  in  Minas  Gerais,  than  it  is  to  agriculture  growing
+food crops for local consumption. Maize is often emphasized
+in discourse over grãos in Brazil. Maize is indeed usually part
+of the crop rotation cycle used with soybeans, but economi-
+cally  it  is  only  a  by-product.  Only  soybeans  justify  the
+massive  infrastructure  that  gives  this  commodity  such  a
+substantial impact on biodiversity.
+
+While a vision of soy feeding Brazilians is often implied in
+discourse on the subject, Brazilians like to eat rice and beans,
+not  soy.  Although  some  soy  is  consumed  in  the  form  of
+cooking oil, this part of the harvest could easily be supplied
+by existing soybean areas in Brazil. The further expansion of
+soybeans is entirely as an export crop.
+
+Figure  5  illustrates  factors  affecting  the  areal  extent  of
+soybean cultivation in Brazil. The feedback of areas planted
+to prices represents an important controlling factor; Brazil’s
+soybean production is sufﬁcient to have an important impact
+on  global  prices  for  this  commodity  (Frechette  1997).
+Decision-making  on  government  policy  regarding  subsidies
+may seem remote from the reality of how decisions are taken
+in  practice  on  such  problems,  but  it  is  important  to  realise
+
+Figure 5 Factors affecting soybean expansion in Brazil. In
+causal loop diagrams such as this, the sign near the head of
+each arrow represents the direction of change in the quantity
+at the head of the arrow given an increase in the quantity at
+the tail of the arrow. 
+
+that  a  decision  by  default  is,  in  fact,  being  taken  every  day
+(Fig.  5).  Business-as-usual  does  not  just  happen:  it  is  the
+result  of  a  tacit  decision  to  leave  policies  unchanged.  The
+consequences  of  this  decision,  and  of  alternatives,  must  be
+understood and faced.
+
+In  1998,  high  humidity  after  rains  meant  that  Roraima
+soybeans  were  struck  by  the  Rhizoctonia fungus  that,  in
+beans,  produces  mela,  the  much-feared  web-blight  disease
+(de  Andrade  1999).  Similarly,  high  humidity  in  the  varzea
+soybean  area  planned  near  Santarém  is  expected  to  carry  a
+greater  risk  of  disease  than  in  dry  areas  like  the  cerrado,
+leading 
+(Carvalho  1999).
+Rhizoctonia attack in soybeans is facilitated by the presence of
+weeds  (Black  et  al. 1996).  High  rainfall  and  lack  of  dry
+periods represent a source of concern for sustainability of soy
+cultivation in the western part of Brazilian Amazonia (see de
+Andrade 2000).
+
+fungicide  use 
+
+increased 
+
+to 
+
+On 24 June 1997, President Fernando Henrique Cardoso
+announced  in  his  weekly  radio  programme  Palavra  do
+Presidente (‘The  Word  of  the  President’)  that  six  million
+hectares  along  the  BR-174  (Manaus-Caracaraí)  Highway
+(Fig.  3)  would  be  opened  to  settlement,  and  suggested  that
+the  area  farmed  there  would  be  ‘so  colossal  that  it  would
+double the nation’s agricultural production’ (de Cássia 1997).
+Despite  almost  certain  hyperbole  in  both  the  expected
+production and area likely to be settled, the intention of initi-
+ating a major programme on the BR-174 Highway appears to
+be real (Fearnside & Leal Filho 2001). The announcement of
+the  BR-174  settlement  programme  came  as  a  surprise,  as
+paving  of  the  highway  in  1996–97  had  been  presented  as  a
+surgical  cut  through  the  forest  that  would  allow  the  city  of
+Manaus  to  trade  with  Venezuela  and  have  access  to  that
+country’s ports.
+
+Announcements like President Cardoso’s radio broadcast
+need to be interpreted with a certain amount of scepticism,
+but  they  often  forebode  major  projects  preceding  detailed
+plans.  One  generic  problem  in  Amazonian  development
+projects is that political pressure to carry out the projects is
+generated before the environmental and social impacts of the
+projects  are  analysed  and 
+judged.  Public  works  are
+announced as government commitments before the EIA and
+RIMA are prepared, thereby making it difﬁcult, in practice,
+to stop projects even when impacts are severe.
+
+Apart from announcements, it also takes adequate market
+demand and infrastructure to transport the beans, and lime
+and  other  required  inputs,  to  make  great  areas  of  soybeans
+appear.  The  extent  to  which  the  rapid  expansion  of  global
+soybean markets that has occurred over the past decade will
+continue is critical. A major question is whether China will
+increase its imports of soy.
+
+Because soybean expansion in the USA is believed to be
+approaching its limits, much of the increased demand from
+China  is  likely  to  be  met  through  expanding  areas  in  Latin
+America. The level of government subsidy to soybeans in the
+USA is also a factor, as any decrease in these subsidies would
+result in transfer of soy growing to Latin America.
+
+Human decisions, particularly Brazilian government
+decisions, will determine to a large degree how soybeans will
+advance in Brazil, and to what extent the advance will
+continue before a new equilibrium is reached. Clearly the
+area in soybeans will not simply go on expanding until this
+crop occupies the whole country. The advance can eventu-
+ally be expected to stop when supply exceeds global demand
+sufﬁciently to cause prices to fall to levels low enough that
+further expansion of soybeans becomes unproﬁtable. Before
+that point is reached, however, Brazil might well decide that
+more expansion of soy-growing areas is not in the national
+interest. Reasons include feedback to prices affecting the
+proﬁtability of soybean growing throughout the country, the
+substantial ﬁnancial drain that government subsidies for
+soybeans represents to the budgets of federal, state and
+municipal governments, and the social and environmental
+costs
+soybeans.
+ever-larger
+Governments might therefore decide to curtail subsidies
+before soybean expansion halts by itself under the current
+set of economic drivers. We might even imagine govern-
+ments
+further
+expansion of soybeans if it were perceived to be damaging,
+but, at present, this is far from the case, with governments
+levels vying to attract as much soy investment as
+at all
+possible.
+
+taking active measures
+
+to discourage
+
+converting
+
+areas
+
+to
+
+of
+
+What is needed is an honest weighing of costs and beneﬁts
+of  expanding  soybean  cultivation,  including  all  social  and
+environmental costs. Only then can countries like Brazil take
+rational  decisions  as  to  how  much  soybean  expansion  is  in
+each  country’s  national  interest,  and  with  what  infrastruc-
+ture.
+
+Conclusions and recommendations 
+
+The multiple adverse impacts of soybean expansion on biodi-
+and  other  development
+versity  will  be  mitigated, 
+considerations  substantially  addressed,  if  the  following
+actions are taken by policy makers.
+(1) Create protected areas in advance of soybean frontiers.
+(2) Encourage elimination of the many subsidies that speed
+soybean  expansion  beyond  what  would  occur  otherwise
+from market forces.
+
+(3) Rapidly carry out studies to assess the costs of social and
+environmental  impacts  of  soybean  expansion,  including
+opportunity costs of money and land.
+
+(4) Strengthen the environmental-impact regulatory system,
+including  assessment  of  the  indirect  impacts  (the  ‘drag-
+ging  effect’)  of 
+in  stimulating  other
+economic activities that are often destructive.
+
+infrastructure 
+
+(5) Create mechanisms such that commitments can be made
+not  to  implant  speciﬁc  infrastructure  projects  that  are
+judged to have excessive impacts.
+
+(6) Encourage  decision-making  based  on  the  full  roster  of
+costs and beneﬁts, in contrast to the present system exem-
+pliﬁed by the ‘Forward Brazil’ Programme.
+
+Soybean cultivation in Brazil
+
+35
+
+Acknowledgements
+
+Science, 
+
+Conservation 
+
+This is part of the ‘Commodities Project’, Center for Applied
+International,
+Biodiversity 
+Washington, DC. I thank the following people for supplying
+valuable information: R.I. Aguirre, R. Smeraldi, J. Hardner,
+A.K.O.  Homma,  D.  Kaimowitz,  A.G.  Moreira,  R.  Rice,  S.
+Schwartzman,  W.G.  Sombroek,  G.  Switkes,  H.  Théry  and
+S.V. Wilson. I also thank the Secretaria de Coordenação da
+Amazônia of the Ministério do Meio Ambiente for making it
+possible to present some of this work at the ‘Atelier sobre a
+Dinâmica da Soja e seus Impactos no Futuro da Amazônia’,
+Brasília,  13  September  1999.  Brazil’s  National  Council  of
+Scientiﬁc  and  Technological  Development  (CNPq  AI
+523980/96–5),  the  National  Institute  for  Research  in  the
+Amazon (INPA PPI 1–3160) and Conservation International
+provided  ﬁnancial  support.  R.I.  Barbosa,  C.  Gascon,
+P.M.L.A.  Graça,  N.V.C.  Polunin,  S.V.  Wilson  and  two
+anonymous reviewers commented on the manuscript.
+
+References
+
+Anon. (1996) ‘Como morreram os sem terra’. Folha de São Paulo 10
+
+May 1996: A-10.
+
+Anon.  (1997a)  Itacoatiara  recebe  primeira  barcaça.  Amazonas  em
+
+Tempo (Manaus) 2 March 1997: C–6.
+
+Anon.  (1997b)  Embarque  de  soja  daqui  a  2  meses. Amazonas  em
+
+Tempo (Manaus) 15 January 1997: A–4.
+
+Anon. (1999a) ‘Amazonino quer discutir zoneamento da Amazônia.
+
+Amazonas em Tempo (Manaus) 15 September 1999: B–7.
+
+Anon. (1999b) Presidente da Camargo Corrêa se reúne com FHC e
+Malan e aceita pasta; posse ocorre na próxima semana: Tápias vai
+para o Desenvolvimento. Folha de São Paulo 7 September 1999:
+A–1.
+
+Anon.  (1999c)  Estrada  abre  corredor  entre  Apuí  e  M.  Grosso.
+
+Amazonas em Tempo (Manaus) 8 May 1999: A–7.
+
+Anon.
+
+(1999d)
+
+‘Ipaam interdita estrada que ligaria Apuí a
+Mato Grosso. Amazonas em Tempo (Manaus) 24 September 1999:
+A–4.
+
+Anon. (1999e) Governo amplia benefícios a ruralistas. Folha de São
+
+Paulo 20 October 1999: A–12.
+
+Arnt,  R.  (1999)  Transgênicos:  os  produtores  contra  os  consumi-
+
+dores. Parabólicos 6(53): 8–9.
+
+Associated  Press  (1998)  Environmentalists  are  skeptical  Pantanal
+waterway  was  killed.  International  Rivers  Network  Dossier  Rios
+Vivos 7: 10. URL http://www.irn.org.
+
+Barber, R.G., Orellana, M., Navarro, F., Diaz, O. & Soruco, M.A.
+(1996)  Effects  of  conservation  and  conventional  tillage  systems
+after land clearing on soil properties and crop yield in Santa Cruz,
+Bolivia. Soil & Tillage Research 38: 133–52.
+
+Black,  B.D.,  Grifﬁn,  J.L.,  Russin,  J.S.  &  Snow,  J.P.  (1996)  Weed
+hosts  for  Rhizoctonia  solani,  causal  agent  for  Rhizoctonia 
+foliar  blight  of  soybean  (Glycine  max).  Weed  Technology 10:
+865–9.
+
+Blumenschein,  M.,  dos  Reis,  Z.S.  &  Galinkin,  M.  (1999)  Estudo
+comparativo da sojicultura na bacia do Alto Paraguai: contribuição
+para  avaliação  do  projeto  da  Hidrovia  Paraguai-Paraná.
+Unpublished  report,  Cuiabá,  Mato  Grosso,  Brazil:  Núcleo  de
+Estudos  Rurais  e  Urbanos  (NERU),  Universidade  Federal  de
+Mato Grosso.
+
+36
+
+Philip M. Fearnside
+
+Brazil,  CNPSO-EMBRAPA  (Centro  Nacional  de  Pesquisas 
+de  Soja-Empresa  Brasileira  de  Pesquisa  Agropecuária)  (1999)
+e  produtividade.  URL  http://
+Soja: 
+www.cnpso.embrapa.br/tab02x1.html
+
+área,  produção 
+
+Brazil,  ELETROBRÁS  (Centrais  Elétricas  Brasileiras,  SA)  (1998)
+Janeiro,  Brazil:
+
+1999–2008.  Rio 
+
+de 
+
+Plano  Decenal 
+ELETROBRÁS.
+
+Brazil, EMBRAPA (Empresa Brasileira de Pesquisa Agropecuária)
+(1998)  Relatório  de  consultoria  da  Embrapa  para  o  BNDES.
+Brasília, Brazil: EMBRAPA. 3 volumes.
+
+Brazil,  Ministério  dos  Transportes  (1999)  Hidrovia  Tocantins-
+Araguaia.  URL  http://www.transportes.gov.br/STA/DHI
+/toacara.htm
+
+Brazil,  Ministério  dos  Transportes  (2000)  Ferronorte.  URL
+http://www.transportes.gov.br/bit/ferro/plferronorte.htm 
+(1 September 2000).
+
+Brazil,  Programa  Avança  Brasil  (1999)  Programa  Avança  Brasil.
+
+URL http://www.abrasil.gov.br
+
+Brazil,  Programa  Avança  Brasil  (2000)  Portfolio  de  investimentos.
+
+URL http://www.eixos.gov.br/asp/Projetos
+
+Brazil,  Programa  Brasil  em  Ação  (1999)  Brazil  in  Action.  URL
+
+http://www.brazil-in-action.gov.br
+
+Brown,  L.R.,  Renner,  M.  &  Halweil,  B.  (1999)  Vital  Signs  1999:
+that  are  Shaping  our  Future.
+
+The  Environmental  Trends 
+Washington, DC, USA: Worldwatch Institute: 197 pp.
+
+Buscher, E.H. & Huszar, P.C. (1995) Critical environmental costs of
+in  South-America.
+
+the  Paraguay-Parana  Waterway  project 
+Ecological Economics 15(1): 3–9.
+
+Carneiro,  M.S.  (1999)  Agricultura  Familiar  e  Grandes  Projetos  no
+Maranhão  na  Década  de  90:  Resultados  e  Perspectivas.  São  Luís,
+Maranhão, Brazil: Forum Carajás: 24 pp.
+
+Carvalho, R. (1999) A Amazônia rumo ao ‘ciclo da soja’. Amazônia
+Papers No. 2. São Paulo, Brazil: Programa Amazônia, Amigos da
+Terra: 8 pp. URL http://www.amazonia.org.br
+
+Cleary,  D.  (2000)  Small-scale  goldmining  in  Brazilian  Amazonia.
+In:  Amazonia  at  the  Crossroads:  The  Challenge  of  Sustainable
+Development,  ed.  A.  Hall,  pp.  58-72.  London,  UK:  Institute  of
+Latin American Studies (ILAS), University of London.
+
+Cohen,  M.  (1995)  Araguaia–Tocantins:  recursos  parcos  para  uma
+
+obra estratégica. Parabólicas 7(2): 4.
+
+Colchester, M. (1994) The new sultans: Asian loggers move in on
+
+Guyana’s forests. The Ecologist 24: 45–52.
+
+Consórcio  Brasiliana  (1998)  Programa  Brasil  em  Ação:  Eixos
+Nacionais  de  Integração  e  Desenvolvimento.  Banco  Nacional  de
+Desenvolvimento  Econômico  e  Social  (BNDES)  PBA/CN-
+01/97.  Brasília,  DF,  Brazil:  Relatório  Final  do  Marco  Inicial,
+Consórcio Brasiliana. 3 volumes.
+
+Consórcio  Brasiliana  (2000)  Programa  Brasil  em  Ação:  Eixos
+Nacionais  de  Integração  e  Desenvolvimento:  Identiﬁcação  de
+Oportunidades  de  Investimentos  Públicos  e/ou  Privados. Banco
+Nacional  de  Desenvolvimento  Econômico  e  Social  (BNDES)
+PBA/CN-01/97.  Brasília,  DF,  Brazil:  Relatório  Síntese,
+Consórcio Brasiliana. 3 volumes.
+
+Cox, C. (1999) Glyphosate (Roundup). Global Pesticide Campaigner
+
+9: 12–9.
+
+de  Andrade,  E.B.  (1999)  Tecnologias  para  o  desenvolvimento  da
+soja e impactos sobre o meio ambiente na Amazônia. Unpublished
+report, ‘Terceiro Atelier de Análise Prospectiva: A Dinâmica da
+Soja  e  seus  Impactos  no  futuro  da  Amazônia’,  13  September,
+Brasília, Brazil. URL http://www.bcdam.gov.br
+
+de  Andrade,  E.B.  (2000)  Seminário  Produção  Intensiva  de  Soja  e
+
+Outros  Grãos  na  Amazônia:  Potencialidades  e  Limitações
+Tecnológicas  e  Ambientais  (Relatório  Sintético).  Belém,  Brazil:
+Empresa  Brasileira  de  Pesquisa  Agropecuária  (EMBRAPA)
+Amazônia Oriental.
+
+de Cássia, R. (1997) BR–174: FHC anuncia abertura de nova fron-
+teira  agrícola  no  Norte.  Amazonas  em  Tempo (Manaus)  25  June
+1997: A–4.
+
+Dinerstein, E., Olson, D.M., Graham, D.J., Webster, A.L., Primm,
+S.A.,  Bookbinder,  M.P.  &  Ledec,  G.  (1995)  A  Conservation
+Assessment  of  the  Terrestrial  Ecoregions  of  Latin  America  and  the
+Caribbean. Washington, DC, USA: World Bank: 129 pp.
+
+Döbereiner, J. (1992) Recent changes in concepts of plant bacteria
+interactions: endophytic N2 ﬁxing bacteria. Ciência e Cultura 44:
+310–3.
+
+Fachel, F. (1999) Cooperativa destrói a selva amazônica para plantar
+soja.  Jornal  do  ambiente 2  September  1999.  URL  http://
+www.egroups.com/lists/jorn-ambiente
+
+FADESP  (Fundação  de  Amparo  e  Desenvolvimento  da  Pesquisa)
+(1996a) Relatório de Estudos de Impacto Ambiental – EIA, referente
+ao projeto de implantação da Hidrovia dos rios Tocantins, Araguaia e
+Mortes. Belém, Para, Brazil: FADESP, Universidade Federal do
+Pará (UFPA). 7 volumes.
+
+FADESP  (Fundação  de  Amparo  e  Desenvolvimento  da  Pesquisa)
+(1996b) Relatório de Estudos de Impacto Ambiental – EIA, referente
+ao projeto de implantação da Hidrovia dos rios Tocantins, Araguaia e
+das Mortes. Belém, Para, Brazil: FADESP, Universidade Federal
+do Pará (UFPA): 109 pp.
+
+Fearnside, P.M. (1986a) Human Carrying Capacity of the Brazilian
+Rainforest. New York, USA: Columbia University Press. 293 pp.
+Fearnside,  P.M.  (1986b)  Spatial  concentration  of  deforestation  in
+
+the Brazilian Amazon. Ambio 15: 72–9.
+
+Fearnside,  P.M.  (1987a)  Causes  of  deforestation  in  the  Brazilian
+Amazon.  In:  The  Geophysiology  of  Amazonia:  Vegetation  and
+Climate  Interactions,  ed.  R.F.  Dickinson,  pp.  37-61.  New  York,
+USA: John Wiley & Sons.
+
+Fearnside,  P.M.  (1987b)  Rethinking  continuous  cultivation  in
+
+Amazonia. BioScience 37: 209–14.
+
+Fearnside, P.M. (1989) Brazil’s Balbina Dam: environment versus
+in  Amazonia.  Environmental
+
+legacy  of  the  pharaohs 
+
+the 
+Management 13: 401–23.
+
+Fearnside,  P.M.  (1995)  Potential  impacts  of  climatic  change  on
+natural forests and forestry in Brazilian Amazonia. Forest Ecology
+and Management 78: 51–70.
+
+Fearnside, P.M. (1997a) Limiting factors for development of agri-
+culture and ranching in Brazilian Amazonia. Revista Brasileira de
+Biologia 57: 531-49.
+
+Fearnside,  P.M.  (1997b)  Comentários  do  Acadêmico  Prof.  Philip
+M.  Fearnside  sobre  ‘Solos  e  os  planos  do  Estado  do  Amazonas
+para expansão da soja nos campos de Humaitá’. In: A Importância
+da  Ciência  para  o  Desenvolvimento  Nacional,  ed.  C.E.  Rocha-
+Miranda, pp. 96-9. Rio de Janeiro, Brazil: Academia Brasileira de
+Ciências.
+
+Fearnside, P.M. (1997c) Protection of mahogany: a catalytic species
+in  the  destruction  of  rain  forests  in  the  American  tropics.
+Environmental Conservation 24: 303–6.
+
+Fearnside,  P.M.  (1997d)  Environmental  services  as  a  strategy  for
+sustainable development in rural Amazonia. Ecological Economics
+20: 53–70.
+
+Fearnside, P.M. (1998) Phosphorus and human carrying capacity in
+Brazilian  Amazonia.  In:  Phosphorus  in  Plant  Biology:  Regulatory
+Roles in  Molecular,  Cellular, Organismic,  and  Ecosystem Processes,
+
+ed. J.P. Lynch & J. Deikman, pp. 94–108. Rockville, MD, USA:
+American Society of Plant Physiologists.
+
+Fearnside,  P.M.  (1999)  Social  impacts  of  Brazil’s  Tucuruí  Dam.
+
+Environmental Management 24: 483–95.
+
+Fearnside, P.M. (2001a) Environmental impacts of Brazil’s Tucuruí
+Dam:  Unlearned  lessons  for  hydroelectric  development  in
+Amazonia. Environmental Management 27(3): in press.
+
+Fearnside,  P.M.  (2001b)  Can  pasture  intensiﬁcation  discourage
+deforestation in the Amazon and Pantanal regions of Brazil? In:
+Patterns  and  Processes  of  Land  Use  and  Forest  Change  in  the
+Amazon,  ed.  C.H.  Wood.  Gainesville,  FL,  USA:  University
+Presses of Florida, in press.
+
+Fearnside, P.M. & Barbosa, R.I. (1996) Political beneﬁts as barriers
+to assessment of environmental costs in Brazil’s Amazonian devel-
+opment  planning:  the  example  of  the  Jatapu  Dam  in  Roraima.
+Environmental Management 20: 615–30.
+
+Fearnside,  P.M.  &  Ferraz,  J.  (1995)  A  conservation  gap  analysis 
+of  Brazil’s  Amazonian  vegetation.  Conservation  Biology 9:
+1134–47.
+
+Fearnside, P.M. & Leal Filho, N. (2001) Soil and development in
+Amazonia:  lessons  from  the  Biological  Dynamics  of  Forest
+Fragments  Project.  In:  Lessons  from  Amazonia:  The  Ecology  and
+Conservation  of  a  Fragmented  Forest,  ed.  R.O.  Bierregaard,  C.
+Gascon, T.E. Lovejoy & R. Mesquita. New Haven, CT, USA.
+Foweraker, J. (1981) The Struggle for Land: A Political Economy of
+the  Pioneer  Frontier  in  Brazil  from  1930  to  the  Present  Day.
+Cambridge, UK: Cambridge University Press: 260 pp.
+
+Frechette,  D.L.  (1997)  The  dynamics  of  convenience  and  the
+Brazilian  soybean  boom.  American  Journal  of  Agricultural
+Economics 79: 1108–18.
+
+Goldin,  I.  &  de  Rezende,  G.C.  (1993)  A  Agricultura  Brasileira  na
+Década de 80: Crescimento numa Economia em Crise. IPEA 138. Rio
+de  Janeiro,  Brazil:  Instituto  de  Pesquisa  Econômica  Aplicada
+(IPEA): 119 pp.
+
+Gonçalves,  M.A.  (1998)  Soy  advances  upon  Roraima’s  savanna.
+URL  http://www.socioambiental.org/website/noticias/english
+/indigenous/19982310.htm
+
+Goodland,  R.J.A.,  Irwin,  H.S.  &  Tillman,  G.  (1978)  Ecological
+
+development for Amazonia. Ciência e Cultura 30: 275–89.
+
+Gross  Braun,  E.H.  &  de  Andrade  Ramos,  J.R.  (1959)  Estudo
+agroecológico  dos 
+campos  Puciari-Humaitá—Estado  do
+Amazonas e Território Federal de Rondônia. Revista Brasileira de
+Geograﬁa 21: 443–97.
+
+Halweil,  B.  (1999)  The  emperor’s  new  crops.  Worldwatch 12(4):
+
+21–9.
+
+Hamilton, S.K. (1999) Potential effects of a major navigation project
+(the  Paraguay-Paraná  Hidrovia)  on  inundation  of  the  Pantanal
+ﬂoodplains.  Regulated  Rivers—Research  &  Management 15:
+289–99.
+
+Hecht, S.B., Norgaard, R.B. & Possio, C. (1988) The economics of
+cattle ranching in eastern Amazonia. Interciencia 13: 233–40.
+Helfand, S.M. (1999) The political economy of agricultural policy
+in Brazil: decision making and inﬂuence from 1964 to 1992. Latin
+American Research Review 24(2): 3–41.
+
+HERMASA (1995) Projeto de implantação dos terminais portuários
+de  Itacoatiara/AM  e  Porto  Velho/RO.  Unpublished  report.
+Manaus,  Amazonas,  Brazil:  HERMASA  Navegação  da
+Amazônia, SA.
+
+Homma, A.K.O. & Carvalho, R.A. (1998) A expansão do monocul-
+tivo  da  soja  na  Amazônia:  início  de  um  novo  cíclo  e  as
+conseqüências  ambientais.  Unpublished  report,  II  Encontro  da
+
+Soybean cultivation in Brazil
+
+37
+
+Sociedade  Brasileira  de  Economia  Ecológica  ECO–ECO:  São
+Paulo,  November  1997:  ECO-ECO:  Rio  de  Janeiro,  RJ,  Brazil 
+8 pp.
+
+Kaimowitz, D. & Smith, J. (2001) Soybean technology and the loss
+of  natural  vegetation  in  Brazil  and  Bolivia.  In:  Agricultural
+Technologies  and  Tropical  Deforestation,  ed.  A.  Angelson  &  D.
+Kaimowitz. Wallingford, UK: CAB International.
+
+Kaimowitz,  D.,  Thiele,  G.  &  Pacheco,  P.  (1999)  The  effects  of
+structural adjustment policies on deforestation and forest degra-
+dation in lowland Bolivia. World Development 27: 505–20.
+
+Klink,  C.A.  (1995)  De  Grão  em  Grão:  O  Cerrado  Perde  Espaço.
+Brasilia,  Brazil:  World  Wide  Fund  for  Nature  (WWF-Brasil): 
+66 pp.
+
+Klink,  C.A.,  Macedo,  R.H.  &  Mueller,  C.C.  (1994)  Cerrado:
+Processo de Ocupação e Implicações para a Conservação e Utilização
+da  sua  Diversidade  Biológica.  Brasilia,  Brazil:  World  Wide  Fund
+for Nature (WWF-Brasil): 104 pp.
+
+Klink,  C.A.,  Moreira,  A.G.  &  Solbrig,  O.T.  (1993)  Ecological
+impacts of agricultural development in Brazilian cerrados. In: The
+World’s Savannas: Economic Driving Forces, Ecological Constraints,
+and Policy Options for Sustainable Land Use, ed. M.D. Young &
+O.T. Solbrig, pp. 259–82. Paris, France: Man and the Biosphere
+Series Vol. 12, UNESCO.
+
+Labes, L. (1999) Take it away! Brazil and GM soya. The Ecologist
+
+29(1): in brief, p. 4.
+
+Losey,  J.E,  Rayor,  L.S.  &  Carter,  M.E.  (1999)  Transgenic  pollen
+
+harms monarch larvae. Nature 399: 214–5.
+
+MacMillan, G. (1995) At the End of the Rainbow? Gold, Land, and
+People  in  the  Brazilian  Amazon.  New  York,  USA:  Columbia
+University Press: 201 pp.
+
+Mantovani, J.E. & Pereira, A. (1998) Estimativa da integridade da
+cobertura vegetal de Cerrado através de dados TM/Landsat. São
+José  dos  Campos,  SP,  Brazil:  Instituto  Nacional  de  Pesquisas
+Espaciais (INPE).
+
+May,  P.H.  (1990)  Palmeiras  em  Chamas:  Transformação  Agrária  e
+Justiça  Social  na  Zona  do  Babaçu.  São  Luís,  Maranhao,  Brazil:
+Empresa  Maranhense  de  Pesquisa  Agropecuária  (EMAPA),
+Financiadora de Estudos e Projetos (FINEP) & Fundação Ford:
+328 pp.
+
+Mendez, P. (1999) As tendências do mercado mundial de grãos e o
+avanço  das  áreas  produtores  de  soja  no  Brasil.  Unpublished
+report, ‘Terceiro Atelier de Análise Prospectiva: A Dinâmica da
+Soja e seus Impactos no futuro da Amazônia’. Brasília, DF, Brazil:
+Ministério do Meio Ambiente. URL http://www.bcdam.gov.br
+(1994)  The  Fragile  Miracle:  Building
+Competitiveness  in  Bolivia,  Phase  One.  La  Paz,  Bolivia:  Monitor
+Company.
+
+Monitor  Company 
+
+Mueller,  C.C.,  Torres,  H.  &  Martine,  G.  (1992)  An  analysis  of
+forest  margins  and  savanna  agroecosystems  in  Brazil.  Brasília,
+DF,  Brazil:  Institute  for  the  Study  of  Society,  Population,  and
+Nature (ISPN).
+
+Myers,  N.,  Mittermeier,  R.A.,  Mittermeier,  C.G.,  da  Fonseca,
+G.A.B. & Kent, J. (2000) Biodiversity hotspots for conservation
+priorities. Nature 403: 853–8.
+
+Novaes,  W.  (1998)  Corda  em  casa  de  enforcado.  O  Estado  de  São
+
+Paulo 7 August 1998.
+
+Osava, M. (1999) Soy production spreads, threatens the Amazon in
+Brazil. Inter Press Service, 10 September 1999. Archives at: URL
+http://www.link.no/IPS/art/eng/serv/LA/1999/09/10/22.57
+104.html (IPS/tra-so/mo/ff/ld/99).
+
+Paterniani, E. & Malavolta, E. (1999) La conquista del ‘cerrado’ en
+
+38
+
+Philip M. Fearnside
+
+el  Brasil.  Victoria  de  la  investigación  cientíﬁca.  Interciencia 24:
+173–81.
+
+Radiobrás (1999) Justiça cassa liminar que suspendeu licenciamento
+de  hidrovia.  Agência  Brasil  30  September  1999.  URL
+http://www.radiobras.gov.br/processados/NAC-19990930-
+164618-0160.htm
+
+Ratter,  J.A.,  Ribeiro,  J.F.  &  Bridgewater,  S.  (1997)  The  Brazilian
+cerrado vegetation and threats to its biodiversity. Annals of Botany
+80: 223–30.
+
+Sánchez,  P.A.  (1976)  Properties  and  Management  of  Soils  in  the
+
+Tropics. New York, USA: John Wiley & Sons: 618 pp.
+
+Silveira, W. (1999) Juiz suspende licenciamento de hidrovia. Folha
+
+de São Paulo 23 September 1999: A–7.
+
+Smeraldi, R. & Veríssimo, A. (1999) Hitting the Target: Timber
+Consumption in the Brazilian Domestic Market and Promotion of
+Forest Certiﬁcation. São Paulo: Amigos da Terra-Programa
+Amazônia & Piracicaba: Instituto de Manejo e Certiﬁcação
+Florestal e Agrícola (IMAFLORA) & Belém, Brazil: Instituto
+para o Homem e o Meio Ambiente na Amazônia (IMAZON):
+41 pp.
+
+Smith,  N.J.H.,  Serrão,  E.A.,  Alvim,  P.T.  &  Falesi,  I.C.  (1995)
+Amazonia:  Resiliency  and  Dynamism  of  the  Land  and  its  People.
+Tokyo, Japan: United Nations University Press: 253 pp.
+
+Spehar,  C.R.  (1995)  Impact  of  strategic  genes  in  soybean  on  agri-
+cultural  development  in  the  Brazilian  tropical  savannahs.  Field
+Crops Research 41: 141–6.
+
+Stedman-Edwards,  P.A.  (1999)  Root  causes  of  biodiversity  loss,
+Case  study  of  the  Brazilian  cerrado.  Unpublished  report,
+Washington, DC, USA: World Wildlife Fund: 37 pp.
+
+Switkes, G. (1999) Gouging out the heart of a river: channelization
+project would destroy Brazilian rivers for cheap soybeans. World
+Rivers Review 14(3): 6–7.
+
+Switkes,  G.  (2000)  Site  of  ACBL’s  planned  barge  port  in  the
+Pantanal  wetlands.  Unpublished  report.  International  Rivers
+Network, Berkeley, CA, USA.
+
+Théry,  H.  (1999)  Dinâmicas  geográﬁcas  da  soja  no  Brasil.
+Unpublished report, ‘Terceiro Atelier de Análise Prospectiva: A
+Dinâmica  da  Soja  e  seus  Impactos  no  futuro  da  Amazônia’.
+Ministério  do  Meio  Ambiente:  Brasília,  DF,  Brazil.  URL
+http://www.bcdam.gov.br
+
+Veening,  W.  &  Groenendijk,  J.  (2000)  Extractive  logging  in  the
+Guianas:  The  need  for  a  regional  ecosystemic  approach.  In:
+Amazonia  at  the  Crossroads:  The  Challenge  of  Sustainable
+Development,  ed.  A.  Hall,  pp.  25–40.  London,  UK:  Institute  of
+Latin Ámerican Studies (ILAS), University of London.
+
+Veríssimo, A. (1999) Soja é uma alternativa para exportação. Gazeta
+
+Mercantil (Brasília) 24 August 1999.
+
+Vieira, A. & Giraldez, R. (1999) Um plantador no Planalto: maior
+produtor  de  soja  do  mundo,  Blairo  Maggi  testa  habilidades
+políticas no Senado e colhe frutos para seu próprio império. IstoÉ
+(São Paulo) 16 June 1999: 84–6.
+
+Williams,  G.W.  &  Thompson,  R.L.  (1984)  Brazilian  soybean
+intervention.  American
+
+international  effect  of 
+
+policy—The 
+Journal of Agricultural Economics 66: 488–98.
+
+Zockun,  M.H.G.P.  (1980)  A  Expansão  da  Soja  no  Brasil:  Alguns
+Aspectos  da  Produção.  São  Paulo,  Brazil:  Instituto  de  Pesquisas
+Econômicas da Universidade de São Paulo: 243 pp.
+
+

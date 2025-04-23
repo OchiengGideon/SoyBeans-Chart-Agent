@@ -1,0 +1,50 @@
+{% load static %}
+<header class="header header--loggedIn">
+    <div class="container">
+        <a href="{% url 'home' %}" class="header__logo">
+            <img src="{% static 'Images/logo-no-background.svg' %}" />
+            <h1>FSRS</h1>
+        </a>
+        <div class="navbar">
+          <div class="Menu">
+              <ul>
+                <li><a href="{% url 'home' %}">Home</a></li>
+                <li><a href="{% url 'chart'%}">Chart</a></li>
+                <li><a href="{% url 'user-location'%}">Weather Updates</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact us</a></li>
+              </ul>
+            </div>
+          </div>
+
+        <nav class="header__menu">
+         
+            <!-- Logged In -->
+            {% if request.user.is_authenticated %}
+            <div class="header__user">
+                  <a href="#"></a>
+                    <div class="avatar avatar--medium active">
+                        <img src="{% url 'user-profile' user.id %}" />
+                    </div>
+                    <p>{{request.user.username}} <span>@{{request.user.username}}</span></p>
+                </a>
+                <button class="dropdown-button">
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+                        <title>chevron-down</title>
+                        <path d="M16 21l-13-13h-3l16 16 16-16h-3l-13 13z"></path>
+                    </svg>
+                </button>
+            </div>
+            {% else %}
+
+            <!-- Not Logged In -->
+            <a href="{% url 'login' %}">
+                <img src="{% static 'images/avatar.svg' %}" />
+                <p>Login</p>
+            </a>
+            {% endif %}
+
+        </nav>
+    </div>
+</header>
+

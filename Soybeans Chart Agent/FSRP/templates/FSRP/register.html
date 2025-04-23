@@ -1,0 +1,42 @@
+{% load static %}
+
+
+{%load static%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FSRP Login</title>
+  <link rel="stylesheet" href="{%static 'css/styles.css'%}">
+</head>
+<div>
+  <div class="registration-page" style="background-image: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url('{% static 'Images/backgroundlogin.jpg' %}');" >
+		<div class="icon">
+			<div class="Logo">FSRS</div>
+		</div>
+		<div class="content" >
+			<div class="form-registration">
+				<h2>Register Here</h2>
+				<form method="POST" action="">
+					{% csrf_token %}
+					<input type="text" name="username" placeholder="Enter username" required>
+					<input type="text" name="first_name" placeholder="Enter First Name" required>
+					<input type="text" name="last_name" placeholder="Enter Last Name" required>
+	
+					<input type="email" name="email" placeholder="Enter Email Here" required>
+					<input type="password" name="password1" placeholder="Enter Your Password" required> 
+					<input type="password" name="password2" placeholder="Confirm Your Password" required>
+					<button type="submit" class="login-btn">Signup</button>
+			</form>
+				<p class="link">Do you have an account?<br>
+				<a href="{% url 'login' %}">Login here</a></p>
+				<p class="liw">Log in With</p>
+			</div>
+		</div>
+	</div>
+	
+	
+	
+</body>
+</html>

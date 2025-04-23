@@ -1,0 +1,70 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <title>Update Profile</title>
+</head>
+<body>
+
+    <header class="user-profile-head">
+        <h1>User Profile</h1>
+    </header>
+
+    <div class="container">
+        <div class="profile-sidebar">
+            <a href="#" class="navigation-item">Profile</a>
+            <a href="#" class="navigation-item">Farm Details</a>
+            <a href="#" class="navigation-item">Historical Activities</a>
+            <!-- Add more navigation items as needed -->
+        </div>
+        <div class="profile-column-container">
+            <div class="profile-column-left">
+                <div class="profile-card">
+                    
+                    <h1>User Profile Form</h1>
+                    <form action="/submit-profile/" method="post" enctype="multipart/form-data">
+                        {% csrf_token %}
+                        <label for="profile_picture">Profile Picture:</label>
+                        <input type="file" id="profile_picture" name="profile_picture" accept="image/*"><br>
+                
+                        <label for="name">User Name:</label>
+                        <input type="text" id="name" name="name" placeholder="{{username}}"><br>
+                
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" placeholder="{{email}}" required><br>
+
+                        <label for="birth_date">Birth Date:</label>
+                        <input type="date" id="birth_date" name="birth_date"><br>
+
+                        <label for="city">City:</label>
+                        <input type="text" id="city" name="city"><br>
+
+                        <label for="state">State:</label>
+                        <input type="text" id="state" name="state"><br>
+
+                        <label for="country">Country:</label>
+                        <input type="text" id="country" name="country"><br>
+
+                        <button type="submit">Submit</button>
+                    </form>
+                </div>
+            </div>
+            <div class="profile-column-right">
+                <div class="farm-card">
+                    <h2>Farm Details</h2>
+                    <p>Nitrogen: 30%</p>
+                    <p>Phosphorus: 20%</p>
+                    <p>Potassium: 15%</p>
+                    <!-- Add more farm details as needed -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
+
+

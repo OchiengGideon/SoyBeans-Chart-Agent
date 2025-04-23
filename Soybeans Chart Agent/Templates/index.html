@@ -1,0 +1,101 @@
+{% extends 'main2.html' %}
+{% load static %}
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FRSE</title>
+  <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body> -->
+{% block content %}
+<div class="first-dispaly" style="background-image: linear-gradient(to top, rgba(1, 33, 20, 0.685)50%,rgba(1, 45, 28, 0.74)50%), url('{% static 'Images/farm.jpg' %}');"> 
+  <div class=" header-content">
+    <h1><span>Soybeans</span> Chart <br><span>Intelligence</span> System</h1>
+    <h2>Smarter insights, Better yield decisions</h2>
+</div> 
+</div>
+<div class="index-header-container">
+  <div class="index-header-container-item header-content">
+    <div class="about">
+      <div class="about-title">
+        <h3>About Us</h3>
+      </div>
+      <div class="about-description">
+        <p>
+          Our Soybeans Chart Agent empowers farmers and agricultural analysts with intelligent visual insights.
+          From growth trends to yield predictions, we combine data and expertise to help you make the best decisions for your soybean farm.
+        </p>
+      </div>
+    </div>
+  </div> 
+
+  <div class="index-header-container-item header-image">
+    <img src="{% static 'Images/farm.jpg' %}" alt="Soybean Farm">
+  </div>
+</div>
+
+</div>
+
+<div class="objectives">
+  <h1>Our Objectives</h1>
+  <div class="objectives-list">
+    <div class="objectives-items">
+      <div class="icon"><i data-lucide="sprout"></i></div>
+      <h3>AI-Based Crop Guidance</h3>
+      <p>Empower farmers with real-time, localized advice across the full soybean lifecycle — from seed selection to post-harvest management — using an AI-driven chart interface.</p>
+    </div>
+    <div class="objectives-items">
+      <div class="icon"><i data-lucide="database"></i></div>
+      <h3>Offline Knowledge Access</h3>
+      <p>Deliver expert-verified, offline agricultural support through the Ollama LLM framework, enabling learning in low-connectivity areas.</p>
+    </div>
+    <div class="objectives-items">
+      <div class="icon"><i data-lucide="languages"></i></div>
+      <h3>Regional Language Support</h3>
+      <p>Break language and literacy barriers by providing farming advice in native languages and in simple conversational formats.</p>
+    </div>
+    <div class="objectives-items">
+      <div class="icon"><i data-lucide="calendar-clock"></i></div>
+      <h3>Seasonal Planning & Alerts</h3>
+      <p>Help farmers plan and stay ahead with AI-generated reminders, crop calendars, and pest/weather alerts tailored to their region.</p>
+    </div>
+  </div>
+</div>
+
+    
+<div class="index-updates">
+  <h3>Discussion Forum</h3>
+  <div class="index-news">
+    <ul class="info_cards">
+      {% for info in infos %}
+      {% if info.id <= 3 %}
+      <li class="info_cards_item">
+        <div class="card">
+          <div class="card_image">
+            <!-- Optional image can be added here -->
+            <!-- <img src="{% static 'Images/discussion_icon.png' %}" alt="Discussion Image"> -->
+          </div>
+          <div class="card_content">
+            <div class="card_title">{{ info.name }}</div>
+            <small>
+              <span class="month">April</span> 
+              <span class="date">Tuesday</span>
+            </small>
+            <p class="card_text">
+              Join the conversation on {{ info.topic }} – from yield optimization to market trends in soybeans. Share insights, ask questions, or explore research with peers.
+            </p>
+            <button class="primaryBtn">Read more</button>
+          </div>
+        </div>
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+{% endblock content%}
+<!-- </body>
+</html> -->

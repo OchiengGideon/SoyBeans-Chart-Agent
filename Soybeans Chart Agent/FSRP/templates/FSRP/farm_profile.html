@@ -1,0 +1,76 @@
+{% extends 'main.html'%}
+{% block content%}
+<header>
+  <h1>Farm Profile Dashboard</h1>
+</header>
+
+<div class="container-farm">
+
+  <!-- Farm Details Section -->
+  <div class="farm-details">
+      <div class="section-heading">Farm Details</div>
+      <p><strong>Farm Name:</strong> Your Farm Name</p><hr>
+      <p><strong>Farmer:</strong> <a href="#">Farmer's Name</a></p><hr>
+      <p><strong>Location:</strong> Your Farm Location</p><hr>
+      <p><strong>Size:</strong> Your Farm Size</p><hr>
+  </div>
+
+  <!-- Soil Nutrients Details Section -->
+  <div class="card-farm">
+    <div class="section-heading-farm">Soil Nutrient Details</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Nitrogen</th>
+                <th>Phosphorus</th>
+                <th>Potassium</th>
+                <th>pH Level</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Sample data, replace with actual data -->
+            <tr>
+                <td>2024-01-01</td>
+                <td>25 units</td>
+                <td>15 units</td>
+                <td>10 units</td>
+                <td>6.5</td>
+            </tr>
+            <tr>
+                <td>2024-02-01</td>
+                <td>28 units</td>
+                <td>16 units</td>
+                <td>11 units</td>
+                <td>6.8</td>
+            </tr>
+            <!-- Add more rows as needed -->
+        </tbody>
+    </table>
+</div>
+
+</div>
+
+  <!-- Graph Section -->
+  <div class="graph">
+      <div class="section-heading">Soil Nutrient Trends</div>
+      <!-- Include your monthly line chart image here -->
+      <img src="monthly_chart.jpg" alt="Monthly Soil Nutrient Trends">
+  </div>
+
+  <!-- Crop Details Section -->
+  <div class="crop-details">
+      <div class="section-heading">Crop Details</div>
+      <!-- Sample crop record, repeat this for each crop -->
+      <p><strong>Crop Name:</strong> Wheat</p>
+      <p><strong>Planting Date:</strong> 2023-01-15</p>
+      <p><strong>Harvest Date:</strong> 2023-04-10</p>
+  </div>
+
+</div>
+
+<footer>
+  &copy; 2024 Your Farm Application. All rights reserved.
+</footer>
+
+{% endblock content %}

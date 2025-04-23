@@ -1,0 +1,1121 @@
+Agric Res (December 2013) 2(4):293–300
+DOI 10.1007/s40003-013-0088-0
+
+R E V I E W
+
+Soybean: Introduction, Improvement, and Utilization
+in India—Problems and Prospects
+
+Dinesh K. Agarwal • S. D. Billore • A. N. Sharma •
+B. U. Dupare • S. K. Srivastava
+
+Received: 4 April 2013 / Accepted: 20 September 2013 / Published online: 16 October 2013
+(cid:2) NAAS (National Academy of Agricultural Sciences) 2013
+
+Abstract The start of commercial exploitation of soybean in India is nearly four decades old. In this period, the crop has
+shown unparallel growth in area and production. Soybean has established itself as a major rainy season crop in the rainfed
+agro-ecosystem of central and peninsular India. Introduction of soybean has resulted in an enhancement in the cropping
+intensity and resultant increase in the proﬁtability per unit land area. In India, soybean will continue to remain a major
+rainfed oilseed crop. A number of varieties that have been bred have resulted in this unprecedented growth. The simulation
+studies and on-farm demonstrations indicate that with current varieties, the rainfed potential of soybean in India is about
+2.1 t/ha against the national average productivity of just 1.2 t/ha. Hence, large yield gaps exist between the potential and
+the actual yields harvested by the farmers. Narrowing of this yield gap may lead to doubling of soybean production.
+National Agricultural Research System has so far been successful in meeting the research demands of agrarian and
+industrial community. Further improvements in the yield of soybean grain and quality of soybean oil are possible by use of
+new research methodologies and by exploitation of recent advances in biology.
+
+Keywords Soybean (cid:2) Genetic improvement (cid:2) Genetic resources
+
+livestock feeding. Soybean meal
+
+Soybean (Glycine max L. Merril) is the world’s most
+important seed legume, which contributes to 25 % of the
+global edible oil, about two-thirds of the world’s protein
+concentrate for
+is a
+valuable ingredient in formulated feeds for poultry and ﬁsh.
+The cultivation and use of soybean could be traced back to
+the beginning of China’s agricultural age. Chinese medical
+compilations, dating back 6,000 years, mention its utili-
+zation for human consumption [12]. To the populace of
+China, Japan, Korea, Manchuria, Philippines, and Indone-
+sia, for centuries, soybean has meant to be meat, milk,
+cheese, bread, and oil. This could well be the reason, why
+in these countries, it has earned epithets like ‘‘Cow of the
+ﬁeld’’ or ‘‘Gold from soil’’ [8]. Owing to its amino acids
+
+D. K. Agarwal (&) (cid:2) S. D. Billore (cid:2) A. N. Sharma (cid:2)
+B. U. Dupare (cid:2) S. K. Srivastava
+Directorate of Soybean Research, Khandwa Road,
+Indore 452 001, M.P., India
+e-mail: agarwaldk4@gmail.com
+
+composition, the protein of soybean is called a complete
+protein. Its nutrition value in heart disease and diabetes is
+well known. It is signiﬁcant that Chinese infants using
+soybean milk in place of cow’s milk are practically free
+from rickets. Today, USA, Brazil, and Argentina are the
+‘‘Big-3’’ producers of the world (Table 1). Versatility of
+soybean was recognized in the West quite recently. Around
+1921, China produced about 80 % of the world’s soybean
+[4]. In India, Soybean was introduced from China in tenth
+century AD through the Himalayan routes, and also
+brought in via Burma (now Myanmar) by traders from
+Indonesia. As a result, soybean has been traditionally
+grown on a small scale in Himachal Pradesh, the Kumaon
+Hills of Uttar Pradesh (now Uttaranchal), eastern Bengal,
+the Khasi Hills, Manipur, the Naga Hills, and parts of
+central India covering Madhya Pradesh. It has also been
+reported that the Indian continent is the secondary center
+for domestication of the crop after China [9, 11, 18]. At
+present, India ranks ﬁfth in the area and production in the
+world after USA, Brazil, Argentina, and China (Table 1).
+
+123
+
+294
+
+Agric Res (December 2013) 2(4):293–300
+
+The contribution of India in the world soybean area is
+10 %, but the contribution to total world soybean grain is
+only 4 % indicating the poor levels of productivity of the
+crop in India (1.1 t/ha) as compared to other courtiers
+(world average 2.2 t/ha).
+
+Indian Scenario
+
+Soybean is the numero uno oilseed crop in India. Soybean
+has become an important oilseed crop in India in a very
+short period with approximately 10-million ha area under
+its cultivation. India is divided into ﬁve agro-climatic zones
+for soybean cultivation. These are northern hill zone,
+northern plain zone, north eastern zone, central zone, and
+southern zone. There are speciﬁc varieties released for each
+zone which are suited to their agro-climatic conditions.
+There has been an unprecedented growth in soybean; area
+which was just 0.03 m ha in 1970 and has reached to
+9.30 million ha in 2010. The mean national productivity
+has increased from 0.43 t/ha in 1970 to 1.36 t/ha in 2010
+(Fig. 1).
+
+The major soybean growing states are Madhya Pradesh,
+Maharashtra, Rajasthan, Karnataka, Andhra Pradesh, and
+Chattisgarh (Fig. 2). Due to rapid expansion, crop sur-
+passed area and production of rest of the oilseeds in
+2006–07. Soybean is now predominantly grown as rainfed
+crop in vertisols and associated soils with an average crop
+season rainfall of 900 mm, which varies greatly across
+locations and years. Introduction of soybean in these areas
+has led to a shift in cropping system from rainy season
+fallow followed by post-rainy season wheat or chickpea
+system fallow (wheat/chickpea) to soybean followed by
+wheat or chickpea (soybean–wheat/chickpea) system. This
+has resulted in an enhancement in the cropping intensity
+and resultant increase in the proﬁtability per unit land area.
+Introduction of soybean has helped in improving the
+
+Table 1 World area, production, and productivity of soybean
+
+Fig. 1 Decade-wise changes in area and production of soybean in the
+country
+
+socioeconomic conditions of large number of small and
+marginal farmers probably due to the fact that even under
+minimum agricultural inputs, management practices, and
+climatic adversities,
+it fetches proﬁtable returns to the
+farmers. In fact, soybean is one of the most resilient crops
+for the rainfed kharif season as despite aberrant weather
+conditions in recent past, the crop has maintained its per-
+formance. The area under soybean is spread in latitudinal
+belt of about 15(cid:3)–25(cid:3)N comprising the states of Madhya
+Pradesh, Maharashtra, Rajasthan, Chhattisgarh, Andhra
+Pradesh, and Karnataka. These states together contribute to
+about 98 % of the total soybean production in the country.
+In recent years, soybean has shown a rapid increase in area
+in southern parts of the country, particularly in the states of
+Maharashtra, Andhra Pradesh, and Karnataka. Madhya
+Pradesh since beginning has been the major contributor to
+the soybean area and production, currently contributing
+59 % of area and production followed by Maharashtra with
+a contribution of 28 and 26 % in terms of total area and
+production of the country. The crop can be grown in most
+parts of India, and states like northeast states, Himachal
+Pradesh and Jharkhand, have good potential of soybean.
+
+2010-11
+
+A
+
+P
+
+31.0
+
+23.32
+
+18.13
+
+8.52
+
+9.55
+
+90.61
+
+68.76
+
+52.68
+
+15.08
+
+12.74
+
+102.56
+
+264.99
+
+2011-12
+
+A
+
+P
+
+29.80
+
+25.00
+
+18.60
+
+7.65
+9.95a
+103.29
+
+83.17
+
+72.00
+
+48.00
+
+13.50
+12.57a
+251.47
+
+Y
+
+2,922
+
+2,948
+
+2,905
+
+1,771
+
+1,334
+
+25.84
+
+Y
+
+2,790
+
+2,880
+
+2,580
+
+1,760
+1,264a
+2,430
+
+Country
+
+2009-10
+
+USA
+
+Brazil
+
+Argentina
+
+China
+
+India
+
+World
+
+A
+
+30.91
+
+21.75
+
+16.77
+
+9.19
+
+9.73
+
+99.27
+
+P
+
+91.42
+
+57.35
+
+30.99
+
+14.98
+
+9.97
+
+223.29
+
+Y
+
+2,958
+
+2,637
+
+1,848
+
+1,630
+
+1,024
+
+2,249
+
+Source FAOSTAT, March 2012
+A area (m ha), P production (m t), Y yield (kg/ha)
+a Department of Agriculture and Cooperation, GOI
+
+123
+
+Agric Res (December 2013) 2(4):293–300
+
+295
+
+1.93 
+
+1.83 
+
+0.11 
+
+M.P.
+
+1.5 
+
+7.42 
+
+Maharashtra
+
+Rajasthan
+
+1.43 
+
+0.09 
+
+1.72 
+
+1.43 
+
+7.26 
+
+27.96 
+
+59.24 
+
+A.P.
+
+26.26 
+
+58.17 
+
+Karnataka
+
+Chattisgarh
+
+Others
+
+Area  %
+
+Fig. 2 Area and production of soybean in different states (2010)
+
+Production  %
+
+Others
+
+M.P.
+
+Maharashtra
+
+Rajasthan
+
+A.P.
+
+Karnataka
+
+Chattisgarh
+
+Edible Oil Economy
+
+Forex Earner
+
+India has the ﬁfth largest vegetable oil economy in the
+world. After cereals, oilseeds are the second largest agri-
+cultural commodity, accounting for the 14 % of the gross
+cropped area in the country. However,
+the country is
+meeting its edible oil demand by importing almost 50 % of
+its requirement. The per capita consumption of the vege-
+is increasing very rapidly due to increase in
+table oil
+population and improved economic status of the popula-
+tion. The demand has increased to about 12.6 kg/year
+compared to 4 kg/year in 1961, and the projected demand
+for the year 2015 and 2020 is 14.57 and 16.38 kg/year,
+respectively. To meet this demand, the country will require
+nearly 18.3 and 21.8 million tons of edible oil. In this
+scenario, soybean could play a pivotal role. Due to the
+advances in knowledge of lipid biochemistry and the pos-
+sibilities of enhancing quality and yield of edible oil in
+soybean, this has the potential of becoming a major oil
+producing crop worldwide.
+
+Soybean contributes 40 and 25 % to the total oilseeds
+and edible oil production of the country and earns valuable
+foreign exchange by exporting soya meal. Current crushing
+capacity of soybean processing industry is about 20 million
+t/annum with the annual total production of 12.0 million t
+soybean oil. As far as consumption pattern is concerned,
+100 % of soybean oil produced in the country is consumed
+domestically, and 8–10 % of total soybean produced is
+consumed at homes for direct food purposes. Thirty-ﬁve
+percent of total soy meal produced ﬁnds its way to the
+domestic market.
+
+Soybean is a key foreign exchange earner due to export of
+soybean defatted oil cake (DOC). Soybean DOC export of
+1,321 million rupees in 1986–87 increased to 8,000 million
+rupees by 2010–11. The total expenditure on imported
+edible oil was offset by the export earnings by soybean.
+DOC, in fact, success of soybean venture, since its com-
+mercial cultivation began in India, has more or less been
+dependent on the export of defatted soybean oil cake. The
+prices of soybean fetched by the farmers have always been
+much higher than the minimum support price declared by
+the government due to better prices fetched by Indian DOC
+in the international markets. However, these prices have
+ﬂuctuated a great deal due to ups and downs in interna-
+tional prices of DOC, and total dependency of soybean
+venture in India on export of DOC is of concern. Soybean
+being an international commodity and USA, Brazil, and
+Argentina being big players, the dependency of soybean in
+India on DOC export may threaten the soybean cultivation
+in India. Therefore, there is an urgent need to increase the
+domestic consumption of DOC, so the dependency on
+international markets is minimized.
+
+Soybean Vis-a-Vis Nutrition Security
+
+The unique chemical composition of soybean seed, which
+includes the number of nutraceutical compounds such as
+isoﬂavons, tocopherol, and lecithin besides 20 % oil and
+40 % protein, has made it one of the most valuable
+
+123
+
+296
+
+Agric Res (December 2013) 2(4):293–300
+
+agronomic crops in the world. The food derived from soy-
+beans generally provides the health beneﬁts and is a cheaper
+source of high-quality protein. The crop has potential to
+eliminate protein malnutrition prevailing in poor sections of
+society in the country. The foreign exchange earned from
+export of soy meal is encouraging draining out of high-
+quality protein from the country which poor sector of society
+needs at an affordable price. The utilization of soybean for
+food uses in India is meager [2], and it needs work in terms of
+blending with other foods to make taste acceptable. The
+high-quality soybean protein should be included in daily diet
+of Indian masses to mitigate the widespread energy-protein
+malnutrition. The Government of India as well as private
+sector should take aggressive approach to increase the food
+use of soybean in the country.
+
+Constraints to Soybean Production
+
+Despite having made rapid stride for both coverage and
+total production, soybean still suffers on productivity front.
+There are a number of constraints, pertaining to climate,
+edaphic, production, and technology aspects as mentioned
+below that hinder higher productivity.
+
+• Most of the area under soybean cultivation are a rainfed.
+• Erratic behavior of monsoon affecting planting.
+• Large spatial and temporal variability in rainfall.
+• Soil moisture stress at critical growth stages, especially
+
+seed-ﬁlling stage.
+
+• High-temperature stress at critical growth stages.
+• Biotic interferences to crop growth.
+• Limited mechanization.
+• Poor adoption of improved production technology—
+
+low risk covering ability.
+
+• Monocropping and poor varietal diversiﬁcation increas-
+
+ing risk chances.
+
+• Timely availability of quality inputs.
+• Poor/inadequate technological information.
+• Poor utilization in food chain owing to characteristics
+
+beany ﬂavor of soybean.
+
+• Road blocks in utilization as pulses because of hard-to-
+
+cook characteristics of soybean.
+
+• Psychological stigmas and conventional food habits.
+• Lack of awareness about health/nutritional beneﬁts.
+• Presence of anti-nutritional factors in soybean.
+• Limited entrepreneurship for processing.
+
+Soybean Genetic Improvement
+
+To ease the availability of edible oil and pulses, the Gov-
+ernment of India has been consistently making efforts to
+
+123
+
+gear up research and development programs through TMO
+(1986) and TMOPM (1991) and 2004 onward through
+ISOPOM programs. The ICAR started the All
+India
+Coordinated Research Project on Soybean (AICRPS) in
+1967. Eventually, ICAR established the National Research
+Centre for Soybean (now upgraded to Directorate of Soy-
+bean Research during XIth Plan) at Indore in Central India
+in 1987 when soybean covered only about 1.5 million
+hectares, nearly one-sixth of the present coverage by the
+crop. At present, soybean has surpassed groundnut and
+rapeseed/mustard in cultivable area and production, the two
+most important edible oilseeds among nine oilseeds grown
+in the country.
+
+The soybean research in India is being pursued by
+Directorate of Soybean Research (DSR) and All India
+Coordinated Research Project on Soybean (AICRPS). The
+AICRPS is an integral part of the DSR with 8 main, 14 sub,
+and 16 voluntary centers, spread across the nation. The
+system is well equipped with human resource equipments
+and infrastructure to conduct quality research. Through
+their uniﬁed efforts and with support
+from soybean
+industry, nongovernmental organizations, and farmers,
+soybean is playing a pivotal role in oil economy of the
+country. The advancement in research component culmi-
+nating to improved varieties and agro-ecological zone-
+speciﬁc production technologies and crop protection
+modules has been the driving force in motivating the other
+components of production system to function in harmony
+leading to unparallel growth of the crop and elevated
+socioeconomic status of small and marginal farmers.
+
+Soybean Genetic Resources
+
+Directorate of Soybean Research is a National Active
+Germplasm Site (NAGS) for Soybean. It
+is also the
+national repository of soybean varieties and germplasm.
+The genetic resources of soybean have been extensively
+augmented, evaluated, and documented since the start of
+the project, and the total collection now stands at 4,248
+accessions of cultivated soybean, 36 accessions of wild
+relative belonging to GP-3 and annual wild progenitor of
+cultigen of Glycine soja. The genetic resources of soybean
+have been extensively augmented, evaluated, and docu-
+mented, and a core collection comprising of 51 accessions
+have been developed. A number of elite genetic sources
+possessing speciﬁc traits have been identiﬁed for further
+utilization through breeding programs (Table 2).
+
+The soybean breeding program started at Pantnagar by
+screening of 1,400 available germplasm lines in 1970 for
+resistance to rust and YMV, but none of these were found
+to be resistant. Therefore, the United States Department of
+Agriculture (USDA) was requested to donate the entire
+soybean germplasm collection to India. A total of about
+
+Agric Res (December 2013) 2(4):293–300
+
+297
+
+Table 2 Elite genetic sources identiﬁed for resistance to abiotic and
+biotic stresses
+
+Photoperiod
+
+insensitivity
+
+MACS 330, EC 325097, EC 333897, EC
+
+34101, EC 325118 and EC 390977 and EC
+538822
+
+Drought resistance
+
+EC 538828
+
+Rust resistance
+Yellow mosaic virus
+
+EC 241778 and EC 241780
+PLSO 84, EC24660, and B463
+
+resistance
+
+Rhizoctonia root rot
+
+AGS48 and EC34117
+
+resistance
+
+to India, out of which,
+
+3,500 lines sent
+two lines—
+PI171443 [a cultivated soybean (G. max), originally from
+China] and Glycine formosana (a wild soybean, also from
+China) were found completely resistant to yellow mosaic.
+Six lines—Fusanaridaizu (PI200465), Gakubun (PI200466),
+(PI200490), Komata
+Hondadaizu (PI200477), Keburi
+(PI200492), and PI224268—all from Japan, were resistant
+to rust [17]. Genetic studies revealed that the inheritance of
+resistance to rust was controlled by a single dominant gene
+[15], whereas the inheritance of yellow mosaic was con-
+trolled by two pairs of recessive genes [16]. These resistant
+sources were used in a hybridization program, and a
+number of varieties were developed that combined the
+resistance with high yield potential and good seed viability.
+
+Varietal Breeding
+
+Improved varieties, in any crop, are essential for achieving
+higher productivity. Unlike traditional varieties,
+these
+varieties are developed with speciﬁc characters like higher
+yields, tolerance to various biotic and abiotic stresses, and
+suitable maturity duration for a particular crop rotation.
+Soybean is a short-day plant and is highly sensitive to day
+length. This results in narrow adaptability of individual
+soybean varieties across latitudes and planting times. The
+history of development of soybean varieties in India is
+comparatively new. The introduction of soybean started in
+1963 with trials conducted at Pantnagar and Jabalpur
+agricultural universities, using varieties from the USA.
+Promising varieties in these trials like Bragg and Clark 63
+were released for cultivation. During 1980–1990, these
+varieties were used as parent to develop further improved
+varieties for Indian conditions. The varieties developed
+after 1990 utilized breeding lines and indigenously devel-
+oped varieties in hybridization programs. The yield of
+soybean has improved four times in comparison with tra-
+ditional variety Kalitur. The varieties developed since 1990
+have been grouped in ‘Selection cycle-2.’ The varieties of
+selection cycle-1 have produced 4 times higher yield than
+indigenous variety Kalitur by virtue of high number of
+pods per plant and seed weight, short duration, and
+
+increased biomass. The varieties in selection cycle-2
+showed 19 % higher yield than selection cycle-1 varieties.
+This increase was due to improvement in harvest index and
+seed-ﬁlling duration. Genetic enhancement of yield in
+soybean and its stability under rainfed condition have been
+the focus. The ideal soybean plant for high yield should
+have determinate or semi-determinate growth habit (suited
+to short growing season), erect and non lodging, long
+juvenile period, broad leaves for maximum light intercep-
+tion, rapid LAI development and seed ﬁll duration, and
+maturity duration of 95–100 days. Faster rate of LAI
+development allows for maximum light interception and
+curtails weed growth. Most of the improved varieties are
+capable of yielding 3–4 t/ha. The important yield contrib-
+uting characters are high number of pods per unit area,
+seeds/pod, and seed size.
+
+The amount of genetic improvement in yield through
+hybridization and selection has been substantial. Recent
+estimates indicate that soybean yields are improving at a
+rate of 23 kg/ha/annum [19]. Wilcox [21] estimated an
+increase of 60 % in seed yields over the past 60 years
+through public sector soybean breeding programs northern
+soybean production area of USA. The world average pro-
+duction stands at 2.6 t/ha. In India, soybean yields have
+improved from 700 to 1,000 kg/ha. The increase has come
+mostly through improvement in harvest index, increased
+biomass, high number of pods/plant, and increased seed-
+ﬁlling duration. The annual genetic gain in seed yield
+between 1969 and 1993 has been approximately 22 kg/ha.
+[10]. Most of Indian soybean varieties have yield potential
+of 2–3 t/ha, while some can yield up to 4 t/ha. Further
+improvement in yield will depend on genetic diversity of
+parents, plugging the yield loss due to stress and improving
+the genetic architecture of the plant.
+
+Besides yield, the other essential characters required for
+soybean in tropics are resistance to pod shattering and good
+seed longevity. The varieties should be able to withstand
+7–10-day delay in harvesting after reaching harvest matu-
+rity and should have minimum 70 % of germination after
+8–9 months of storage under ambient conditions. Most of
+the recently released improved varieties are tolerant to pod
+shattering and have acceptable seed storability. However,
+bold-seeded varieties are inherently prone to loss of via-
+bility faster than small-seeded varieties.
+
+The major biotic stresses, which reduce soybean pro-
+ductivity under Indian conditions, are diseases like yellow
+mosaic virus, rust, rhizoctonia, anthracnose, etc., and insect
+pests like stem ﬂy, gridle beetle, and various defoliators.
+There is a need to enhance soil health by use of biological
+control agents that may control root diseases and nema-
+todes. Varieties resistant/tolerant to many of these stresses
+have been bred, and the work is continuing. Being a rainfed
+crop, drought is a major abiotic stress, which limits the
+
+123
+
+298
+
+Agric Res (December 2013) 2(4):293–300
+
+productivity of soybean in India. Therefore, tolerance to
+is one of the major areas where the current
+drought
+breeding program is focused. Looking at the future climate
+change,
+the breeding programs are also focussed on
+development of varieties with tolerance to high-tempera-
+ture conditions. Despite its rich nutritional proﬁle, use of
+soybean in food has been limited because of its beany
+ﬂavor
+(lipoxygenases) and presence of anti-nutritional
+factors like trypsin inhibitor. Breeding for quality charac-
+ters and development of food-grade varieties is becoming
+an important objective in future.
+
+The total number of released/identiﬁed varieties in India
+till date is 102. Out of these maximum numbers of varieties,
+(38) have been released for central zone, (22) for northern
+hill zone, (23) for northern plain zone, (24) for southern zone,
+and (5) for north eastern zone. Some of these varieties are
+land races or selections from them and have been known
+since long. These are (a) a pool of black-seeded indigenous
+varieties such as Bhat or Bhatmash which represent the
+habitat of northern hill region, but are also cultivated in
+scattered pockets of central India under the names such as
+Kalitur and Kala Hulga, (b) yellow-seeded pool of northern
+or Tehri-Garhwal region presently represented by JS 2, and
+(c) a pool of indigenous varieties with small- and yellow-
+seeded varieties represented by Type 49. In Kumaon Hills,
+black soybean, locally known as bhat, was grown, while in
+northeastern India, viny-type yellow-seeded cultigens were
+grown. These land races have given rise to three varieties viz.
+Kalitur, JS-2, and Type 49. This includes central as well as
+state releases. A majority of Indian varieties have been
+developed using exotic parents. Depending on their breeding
+history, the Indian varieties can be grouped into two. The ﬁrst
+group comprises varieties viz. Bragg, Lee, Improved Peli-
+can, Hardee, Monetta, Shilajeet, Co 1, Gujarat Soy 1, Gujarat
+Soy 2, VL Soy 2, and JS 71-05 which owe their evolution to
+direct selection from exotic and indigenous material. The
+second group comprises a bulk of the Indian varieties which
+were developed through hybridization and mutation in/
+among the varieties of the ﬁrst group. Soybean breeding
+programs across the country have also been successful in
+developing varieties with speciﬁc characters ranging from
+having resistance to biotic and abiotic stresses, special
+agronomic niches, important processing requirements, and
+product-speciﬁc quality traits (Table 3).
+
+The traditional breeding techniques have been used for
+the improvement to yield and other traits. The yields have
+increased by 60 % in the last 60 years, and 3,900 varieties of
+soybean have been released worldwide. The advent of
+molecular techniques has speeded soybean breeding. The
+ability of genome sequence, the use of functional genomics,
+gene mapping, QTL analysis, and transgenic development
+are accelerating soybean improvement. Glyphosate-tolerant
+roundup ready (RR) soybean is the most widely grown GE
+
+123
+
+crop in the world. These molecular techniques are the future
+of breeding programs. Consequently, soybean could become
+a major crop for producing high-quality protein, healthy oil,
+and oil for biodiesel.
+
+Soybean is attacked by the number of fungal, bacterial,
+viral pathogens, and nematodes. The most important one are
+soybean rust, Phytophthora root rot, stem canker, bacterial
+blight, soybean mosaic virus, and soybean cyst nematode. In
+India, the prevalent diseases are rust, yellow mosaic virus,
+charcoal rot, and Rhizoctonia root rot. Rust is prevalent in
+southern India. The resistance to rust is governed by a
+dominant gene Rpp. Four alleles Rpp1–Rpp4 at different loci
+have been reported [6, 7]. Indian varieties PS 1024, PS 1029,
+and JS 80-21 are tolerant to rust. In order to search for
+resistance sources, the germplasm collection is screened at
+hot spots. Two lines EC 241778 and EC 241780 show
+resistance. Development of YMV resistant varieties like PK
+416 and PS 564 was made possible by a source of resistance
+PI 171443 (UPSM 534) and has made cultivation of soybean
+possible in north India [17]. The active breeding to obtain
+varieties with multiple disease resistances the need for sus-
+tainability in soybean production.
+
+The most destructive insect pests of soybean include a
+variety of foliage feeders, stem borers, gram pod borer, and
+stink bug. Although considerable efforts have gone into
+breeding insect-resistant varieties, limited success has been
+achieved [5]. In India, germplasm lines and elite breeding lines
+are scored for resistance to major insect pests, e.g., stem ﬂy,
+girdle beetle, and defoliator. Sharma and Shukla [13] identiﬁed
+germplasm lines TGX 855-53D and DS 396 as resistant to
+defoliators. The wild progenitor of soybean, G. soja, is a
+promising source of resistance to Bihar hairy caterpillar [14].
+
+Secondary Agriculture-Based Breeding Initiatives
+
+Despite its rich nutritional proﬁle, use of soybean in food
+has been limited because of its beany ﬂavor (lipoxygen-
+ases) and presence of anti-nutritional factors like trypsin
+inhibitor. Breeding for quality characters and development
+of food-grade varieties are important breeding objectives in
+soybean. Besides the conventional breeding approaches,
+new tools such as allele mining, marker-aided selection
+(MAS), functional genomics, and genetic engineering are
+being pursued to achieve the long cherished goals.
+
+Secondary agriculture provides an important crop-linked
+enterprise to farmers so as to enhance their income from
+their farm business and also provide a stability and insur-
+ance to the crop economy in the country. Heavy reliance on
+export for a long period does not emit healthy sign for
+soybean in the country. To promote soybean-based sec-
+ondary agriculture, Directorate of Soybean Research, In-
+dore, has taken up a number of novel initiatives and have
+come out with a good number of technologies enhancing
+
+Agric Res (December 2013) 2(4):293–300
+
+299
+
+Table 3 Varieties having speciﬁc characters
+
+Character
+
+Varieties
+
+Resistance to pod shattering
+
+PK 472, PK 416, JS 335, NRC 7, NRC 37, Bragg, JS 71-05 and
+
+Tolerance to drought
+
+most of the new varieties
+
+NRC 7, JS 71-05, Hardee
+
+Tolerance to excessive soil moisture
+
+JS 97-52
+
+Good seed longevity
+
+Suitable for mechanical harvesting
+
+Suitable for summer cultivation
+
+Suitable for delayed sowing
+
+JS 80-21, NRC 37, Punjab 1, NRC 2, JS 335, Kalitur
+
+MACS 58, NRC 37, Type 49, Durga, Punjab 1
+
+MACS 57, Punjab 1, JS 335, Pusa 16, PS 564
+
+JS 335, Ahilya-1, PK 472, Punjab 1 etc. Increased seed rate and
+
+Resistance to lodging
+
+Low trypsin inhibitor
+
+Low lipoxygenase
+High protein ([40 %)
+High oil ([20 %)
+
+Low linolenic acid
+
+High oleic acid
+
+High isoﬂavones
+
+Low oligosaccharide
+
+Tofu quality
+
+Collar rot or sclerotial blight
+Sclerotium rolfsii
+
+Rust
+Phakopsora pachyrhizi
+
+Myrothecium leaf spot
+Myrothecium roridum
+
+Yellow mosaic
+
+Mung bean yellow mosaic virus
+
+Girdle beetle
+Obereopsis brevis
+
+(Swedenbord)
+
+reduced row to row distance
+
+JS 71-05, Pusa-16, Ahilya-1
+
+Hardee, Punjab 1
+
+Shilajeet, KHSb 2, Punjab 1
+
+ADT 1, MACS 58
+
+NRC 7, VLS 1, PK 416
+
+VLS 59
+
+LSb 1
+
+Hardee, ADT 1
+
+SL 525
+
+Punjab 1, Hardee, PK 472
+
+NRC 37, PS 1225
+
+Rust tolerant varieties like Ankur, PK 1024, PK 1029, JS 80-21, Indira
+
+Soya 9, MAUS 61-2 or early maturing varieties
+
+Resistant/moderately resistant varieties like Bragg, JS 71-05, JS 335,
+
+MACS 13, MACS 124, MAUS 47, NRC 7, PK 564
+
+PK 416, PK 472, PK 1024, PK 1029, PK 1042, SL 525, SL 688,
+
+PS 1347, Pusa 9712, JS 97-52
+
+NRC 12, NRC 7, Bragg, Indira Soya 9, JS 93-05, RAUS 5, PK 262, Punjab 1
+
+Defoliators
+Blue beetle (Cneorane sp.)
+Tobacco Caterpillar Spodoptera litura (Fabricius)
+Bihar Hairy Caterpillar Spilosoma obliqua (Walker)
+
+Stem ﬂy
+
+NRC 12, NRC 7, JS 80-21, JS 90-41, MACS 450, MAUS 47, Monetta,
+
+RAUS 5, Pusa 16, JS 95-60
+
+JS 335, NRC 12, NRC 7, MACS 124, JS 90-41, Indira Soya 9, JS 93-05,
+
+MACS 124, MAUS 47, PS 564, JS 95-60
+
+these. A number of lines having high oil content (22–23 %)
+(AGS191, NRC7, G76), high oleic (42 %) (IC210 &
+NRC106), low linolenic acid (4 %) (VLS 59), high protein
+(44 %) (G288 & G688), Null KTI (NRC 101, 102), null
+lipoxygenase, and vegetable types (NRC 105) have been
+identiﬁed, developed, and registered.
+
+Future Challenges
+
+The productivity of soybean India though has increased
+from 426 kg/ha in 1970–71 to 1,264 kg/ha in 2011–12,
+
+which is still much below the potential of the crop in India.
+Thus, the poor productivity and great ﬂuctuation in climate
+and yield are detrimental in India. Simulation studies car-
+ried out across India have revealed that
+the climatic
+potential of the crop is 3,000–3,500 kg/ha, while rainfed
+potential is 2,000–2,500 kg/ha as against national average
+of 1,100 kg/ha [1]. The average rainfed potential of
+2,000 kg/ha has also been demonstrated in large number of
+on-farm trials conducted over years across India [3]. Sev-
+eral abiotic, biotic, and socio economic factors, responsible
+for poor productivity of soybean in India, have been
+identiﬁed ([20]). However, the major cause of large yield
+
+123
+
+300
+
+Agric Res (December 2013) 2(4):293–300
+
+gaps between rainfed yield potential and actual yields
+harvested by farmers is attributed to non-adoption of
+improved production technology by the farmers.
+
+Despite having established non-adoption of technologies
+as the foremost reason for stagnation of soybean produc-
+tivity, maintaining the focus on providing the upward thrust
+to soybean production and productivity in the country in
+next 20 years to come, the following multi-pronged strat-
+egies have been formulated.
+
+•
+
+Improving productivity of soybean through develop-
+ment of new gene technologies.
+
+• Enhancing and enriching the gene pool to broaden the
+selection pool along with gene ﬂagging to assign the
+worth to our genetic wealth.
+
+• Development of new varieties that would ﬁt
+
+into
+futuristic crop management regimes and can harness
+the opportunities created by shift in weather patterns.
+• Exploitation of heterotic vigor to create an opportunity
+window for development of hybrids for further increas-
+ing the yield potential.
+
+• Exploitation of new biotechnological tools in exercis-
+
+ing efﬁcient selection in reduced time frame.
+
+• Development of varieties with efﬁcient extraction
+metabolism to assimilate ever limiting phosphorous
+and zinc availability.
+
+• Breeding varieties that could cope with abiotic stresses
+
+like water deﬁcit and excesses.
+
+• Using zinc-ﬁnger nuclease technology,
+
+the trypsin
+inhibitor and other undesirable genes can be deleted
+or modiﬁed. A thaumatin gene for sweet protein gene
+and cloning of omega and hydroxyl acids genes can
+make soybean the most valuable oil crop. There are no
+limitations of technology. Imagination and bold deci-
+sions to do are the scarce virtues holding soybean back.
+
+References
+
+1. Bhatia VS, Singh Piara, Wani SP, Chauhan GS, Kesava Rao
+AVR, Mishra AK, Srinivas. K (2008) Analysis of potential yields
+and yield gaps of rainfed soybean in India using CROPGRO-
+Soybean model. Agric For Meteorol 148:1252–1265
+
+2. Bhatnagar PS, Joshi OP (2004) Current status of soybean pro-
+duction and utilization in India. In: Proceedings of VII world
+
+soybean research conference, IV international soybean processing
+and utilization conference, III Congresso Mundial de Soja (Bra-
+zilian Soybean Congress), Embrapa Soybean, Londrina, Brazil,
+pp 26–37
+
+3. Billore SD, Joshi OP, Dupare BU (2004) Impact of frontline
+demonstrations on augmenting the soybean Glycine max L. pro-
+ductivity. J Oilseeds Res 21:352–353
+
+4. Bisaliah S (1988) Soybean development in India. CGPRT NO. 5
+5. Boethel DJ (1999) Assessment of soybean germplasm for mul-
+tiple insect resistance. In: Clement SL, Quisenberry SS (eds)
+Global plant genetic resources for insect-resistant crops. CRC
+Press, Boca Raton, FL, pp 101–129
+
+6. Hartwig EE (1986) Identiﬁcation of a fourth gene conferring
+
+resistance to soybean rust. Crop Sci 26:1135–1136
+
+7. Hartwig EE, Bromﬁeld KR (1983) Relationship among three
+genes conferring speciﬁc resistance to rust in soybeans. Crop Sci
+23:237–239
+
+8. Horvath AA (1926) Changes in the blood composition of rabbits
+
+fed on raw soy beans. J Biol Chem 68:343–355
+
+9. Hymowitz T (1990) Soybeans: the success story. In: Janick J,
+Simon JE (eds) Advances in new crops. Timber Press, Portland,
+OR, pp 159–163
+
+10. Karmakar PG, Bhatnagar PS (1996) Genetic improvement of
+soybean varieties released in India from 1969 to 1993. Euphytica
+90:95–103
+
+11. Khoshoo TN (1995) Census of India’s biodiversity; tasks ahead.
+
+Curr Sci 69:14–17
+
+12. Krishnamurthy K, Shivashankar K (1975) Soybean production in
+Karnataka. UAS Tech. Series, No. 12. U University of Agricul-
+tural Sciences, Bangalore
+
+13. Sharma AN, Shukla AK (1993) Field screening of soybean
+germplasm for resistance to insect-pests and diseases. Soybean
+Genet Newsl 20:73–78
+
+14. Singh RJ, Nelson RL, Chung GH (2007) Soybean (Glycine max
+(L.) Merr.). In: Singh RJ (ed) Genetic resources, chromosome
+engineering, and crop improvement. Oilseed crops, vol 4. CRC
+Press, Boca Raton, pp 13–50
+
+15. Singh BB (1977) Breeding for resistance to soybean rust in India.
+
+Soybean Rust Lett 1:13–16
+
+16. Singh BB, Malick AS (1978) Inheritance of resistance to yellow
+mosaic in soybean. Indian J Genet Plant Breed 38:258–261
+17. Singh BB, Gupta SC, Singh BD (1974) Sources of ﬁeld resistance
+to rust and yellow mosaic diseases of soybeans. Indian J Genet
+Plant Breed 34:400–404
+
+18. Singh RJ, Hymowitz T (1999) Soybean genetic resources and
+
+crop improvement. Genome 42:605–616
+
+19. Specht JE, Hume DJ, Kumudini SV (1999) Soybean yield
+potential—a genetic and physiological perspective. Crop Sci
+39:1560–1570
+
+20. Tiwari SP (2001) Indian scenario and needs in soybean genetic
+resources. In: Proceedings of India soy forum 2001 in Soybean
+Processors Association of India, Malviya Nagar, Indore, India,
+pp 48–57
+
+21. Wilcox JR (2001) Sixty years of improvement
+
+in publicly
+
+developed elite soybean lines. Crop Sci 41:1711–1716
+
+123
+
+

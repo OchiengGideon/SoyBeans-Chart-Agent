@@ -1,0 +1,69 @@
+{% extends 'main.html' %}
+{% load static %}
+{% block content%}
+
+
+  
+        <div class="profile-sidebar">
+            <a href="#" class="navigation-item">Profile</a>
+            <a href="#" class="navigation-item">Farm Details</a>
+            <a href="#" class="navigation-item">Historical Activities</a>
+            <!-- Add more navigation items as needed -->
+        </div>
+        <div class="container">
+            <header class="user-profile-head">
+                <h1>User Profile</h1>
+            </header>
+        <div class="profile-column-container">
+            
+            <div class="profile-column-left">
+               
+                <div class="profile-card">
+                    <div class="activities__header">
+                        <h2>User Profile</h2>
+                    </div>
+                    <div class="profile__avatar">
+                        <div class="avatar avatar--large active">
+                          <img src="{{user.profile.profile_pic.url}}" />
+                        </div>
+                      </div>
+                      <div class="profile__info">
+                        <h3>{{user.name}}</h3>
+                        <p>@{{user.username}}</p>
+                        <p>Email: {{ user.email }}</p>
+                        <p>Date of Birth: {{ user.profile.date_of_birth }}</p>
+                        <p>Phone Number: {{ user.profile.phone_number }}</p>
+                        <p>Address: {{ user.profile.address }}</p>
+                        <p>City: {{ user.profile.city }}</p>
+                        <p>State: {{ user.profile.state }}</p>
+                        <p>Country: {{ user.profile.country }}</p>
+                        <p>Postal Code: {{ user.profile.postal_code }}</p>
+                        {% if request.user == user %}
+                        <a href="{% url 'update-user' %}" class="btn btn--main btn--pill">Edit Profile</a>
+                        {% endif %}
+                      </div>
+                </div>
+            </div>
+            <div class="profile-column-right">
+                <div class="farm-card">
+                    <div class="activities__header">
+                        <h2>Farm Profile</h2>
+                    </div>
+                    <h2>Farm Details</h2>
+                    <p>Nitrogen: {{soil.nitrogen}}</p>
+                    <p>Phosphorus: {{soil.phosphorous}}</p>
+                    <p>Potassium: {{soil.potassium}}</p>
+                    <p>Rainfall: {{soil.rainfall}}</p>
+                    <p>pH: {{soil.ph}}</p>
+                    <a href="{% url 'soil-details' %}" class="btn btn--main btn--pill">Update</a>
+                    <a href="{% url 'update-soil-details' %}" class="btn btn--main btn--pill">Update2</a>
+                </div>
+                <div class="activities-card">
+                    {% include 'FSRP/activity_component.html' %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}
+

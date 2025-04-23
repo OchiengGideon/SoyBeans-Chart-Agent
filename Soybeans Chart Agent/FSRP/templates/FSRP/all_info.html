@@ -1,0 +1,16 @@
+{% extends 'main.html' %}
+{% block title%}Info{% endblock %}
+{% block content%}
+<div class="allInfo">
+  <h1>Title</h1>
+  {% for info in infos %}
+  <div class="itemGroup">
+    <div class="item">
+      <h3>{{info.Name}}</h3>
+      <p class="itemTitle">{{info.host.username}}</p>
+      <p class="mainNews">{{item,description}}</p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endblock%}

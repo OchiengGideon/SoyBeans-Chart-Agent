@@ -1,0 +1,143 @@
+{% extends 'main.html' %}
+{% load static %}
+
+{% block content %}
+<main class="profile-page layout layout--2">
+  <div class="container" style="display: flex; gap: 1rem;">
+    <!-- Chat Section: occupies 3/4 of width -->
+    <div class="room" style="flex: 3;">
+      <div class="room__top">
+        <div class="room__topLeft">
+          <a href="{% url 'home' %}">
+            <!-- Back Arrow Icon -->
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+              <title>arrow-left</title>
+              <path d="M13.723 2.286l-13.723 13.714 13.719 13.714 1.616-1.611-10.96-10.96h27.625v-2.286h-27.625l10.965-10.965-1.616-1.607z"></path>
+            </svg>
+          </a>
+          <h3>Soybean Agricultural Chatbot</h3>
+        </div>
+      </div>
+
+      <div class="room__box scroll">
+        <div class="room__conversation">
+          <div class="threads scroll" id="chat"></div>
+        </div>
+      </div>
+
+      <div class="room__message">
+        <form onsubmit="sendMessage(); return false;">
+          {% csrf_token %}
+          <input type="text" name="body" id="user_input" placeholder="Ask something about soybean farming..." />
+          <button type="submit">Send</button>
+        </form>
+      </div>
+    </div>
+    <!-- End Chat Section -->
+
+    <!-- Previous Searches Section: occupies 1/4 of width -->
+    <aside class="previous-searches" style="flex: 1; background: #f9f9f9; border-radius: 8px; padding: 1rem;">
+      <h4 class="previous-searches__title">Previous Searches</h4>
+      <ul class="previous-searches__list scroll">
+        {% if request.session.previous_queries %}
+          {% for query in request.session.previous_queries %}
+            <li class="previous-searches__item">
+              <button type="button" onclick="repeatSearch('{{ query }}')">{{ query }}</button>
+            </li>
+          {% endfor %}
+        {% else %}
+          <li class="previous-searches__empty">No previous searches</li>
+        {% endif %}
+      </ul>
+    </aside>
+    <!-- End Previous Searches Section -->
+
+  </div>
+</main>
+{% endblock content %}
+
+{% block scripts %}
+<script>
+  // CSRF helper
+  function getCookie(name) {
+    let cookieValue = null;
+    if (document.cookie && document.cookie !== '') {
+      const cookies = document.cookie.split(';');
+      for (let i = 0; i < cookies.length; i++) {
+        const cookie = cookies[i].trim();
+        if (cookie.substring(0, name.length + 1) === (name + '=')) {
+          cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+          break;
+        }
+      }
+    }
+    return cookieValue;
+  }
+
+  // Send message with chat injection
+  async function sendMessage() {
+    const user_input = document.getElementById('user_input').value;
+    const csrftoken = getCookie('csrftoken');
+    if (!user_input) return;
+
+    // Append user message
+    const chat = document.getElementById('chat');
+    chat.innerHTML += `<div class="thread user-thread"><div class="thread__details"><strong>You:</strong> ${user_input}</div></div>`;
+
+    // Save to previous searches
+    fetch('/save-query', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'X-CSRFToken': csrftoken
+      },
+      body: `query=${encodeURIComponent(user_input)}`
+    });
+
+    // Fetch bot response
+    const res = await fetch('/ask', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'X-CSRFToken': csrftoken
+      },
+      body: `user_input=${encodeURIComponent(user_input)}`
+    });
+
+    const data = await res.json();
+    const response = data.response;
+
+    // Build bot reply
+    let replyHTML;
+    if (!response || !response.answer) {
+      replyHTML = `<div class="thread bot-thread"><div class="thread__details"><strong>Bot:</strong> Sorry, I couldn’t generate a helpful response.</div></div>`;
+    } else {
+      replyHTML = `<div class="thread bot-thread"><div class="thread__details"><strong>Bot:</strong><p>${response.answer}</p>`;
+
+      if (response.recommendations && response.recommendations.length > 0) {
+        replyHTML += `<p><strong>Recommendations:</strong></p><ul>`;
+        response.recommendations.forEach(item => {
+          replyHTML += `<li>${item}</li>`;
+        });
+        replyHTML += `</ul>`;
+      }
+
+      if (response.location && response.location.trim() !== "") {
+        replyHTML += `<p><em>Location-specific advice: ${response.location}</em></p>`;
+      }
+
+      replyHTML += `</div></div>`;
+    }
+
+    chat.innerHTML += replyHTML;
+    document.getElementById('user_input').value = '';
+    chat.scrollTop = chat.scrollHeight;
+  }
+
+  // Repeat a previous search
+  function repeatSearch(query) {
+    document.getElementById('user_input').value = query;
+    sendMessage();
+  }
+</script>
+{% endblock scripts %}

@@ -1,0 +1,54 @@
+{% extends 'main.html' %}
+
+{% block content %}
+<main class="create-room layout">
+  <div class="container">
+    <div class="layout__box">
+      <div class="layout__boxHeader">
+        <div class="layout__boxTitle">
+          <h3>Create/Update Soil details</h3>
+        </div>
+      </div>
+      <div class="layout__body">
+        <form action="" method="POST">
+          {% csrf_token %}
+    
+          <div class="form__group">
+            <label for="nitrogen_level">Nitrogen Level</label>
+            <input required type="number" name="nitrogen_level" id="nitrogen_level" step="0.01" value="{{ soil.nitrogen_level }}">
+          </div>
+    
+          <div class="form__group">
+            <label for="phosphorous_level">Phosphorous Level</label>
+            <input required type="number" name="phosphorous_level" id="phosphorous_level" step="0.01" value="{{ soil.phosphorous_level }}">
+          </div>
+    
+          <div class="form__group">
+            <label for="potassium_level">Potassium Level</label>
+            <input required type="number" name="potassium_level" id="potassium_level" step="0.01" value="{{ soil.potassium_level }}">
+          </div>
+    
+          <div class="form__group">
+            <label for="ph">pH</label>
+            <input required type="number" name="ph" id="ph" step="0.01" value="{{ soil.ph }}">
+          </div>
+    
+          <div class="form__group">
+            <label for="rainfall">Rainfall</label>
+            <input required type="number" name="rainfall" id="rainfall" step="0.01" value="{{ soil.rainfall }}">
+          </div>
+    
+          <div class="form__action">
+            <a class="btn btn--dark" href="{{request.META.HTTP_REFERER}}">Cancel</a>
+            <button class="btn btn--main" type="submit">Submit</button>
+          </div>
+          
+        </form>
+      </div>
+    </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</main>
+{% endblock %}
