@@ -59,7 +59,7 @@ def ask(request):
 
     print("advice+++++++++++++++++++++++++", advice)
     print(type(advice))
-    advice = ast.literal_eval(advice)
+    advice = json.loads(advice)
 
     # Return only relevant fields (excluding chart)
     return JsonResponse({

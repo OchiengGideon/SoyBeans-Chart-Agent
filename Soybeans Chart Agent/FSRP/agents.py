@@ -22,6 +22,10 @@ from langchain_community.vectorstores import FAISS
 
 EMBEDDING_MODEL_NAME = "distiluse-base-multilingual-cased-v2"
 emb_model = SentenceTransformer(EMBEDDING_MODEL_NAME)
+
+model = "llama3.2"  
+ollama_url = "https://dory-renewing-termite.ngrok-free.app/api/chat"
+
     
 hf_embeddings = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)
 
@@ -36,16 +40,34 @@ VS = VectorStore(local_store, chroma_collection)
 # ----------------------------------------
 # Ollama LLM Client
 # ----------------------------------------
+import requests
+
 class OllamaClient:
     """
-    Wrapper for querying a local Ollama LLM model using Langchain.
-    Ensure the `ollama` server is running and the model is pulled.
+    Wrapper for querying a remote Ollama LLM model via the HTTP API.
+    Replace LangchainOllama with direct API calls to the Ollama server.
     """
-    def __init__(self, model_name="llama3.2"):
-        self.model = LangchainOllama(model=model_name)
+    def __init__(self, model_name="llama3.2", api_url="https://dory-renewing-termite.ngrok-free.app/api/chat"):
+        self.model = model_name
+        self.api_url = api_url
 
     def generate(self, prompt: str) -> str:
-        return self.model.invoke(prompt)
+        messages = [{"role": "user", "content": prompt}]
+        try:
+            response = requests.post(
+                self.api_url,
+                json={
+                    "model": self.model,
+                    "messages": messages,
+                    "stream": False  # Set to True for streaming
+                },
+                timeout=30
+            )
+            response.raise_for_status()
+            data = response.json()
+            return data.get("message", {}).get("content", "No response content.")
+        except requests.RequestException as e:
+            return f"Error: {e}"
 
 OLLAMA = OllamaClient()
 
