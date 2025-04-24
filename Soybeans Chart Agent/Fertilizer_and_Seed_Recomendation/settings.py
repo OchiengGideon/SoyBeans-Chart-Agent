@@ -145,3 +145,7 @@ STATICFILES_DIRS = [
 #Logging out user for being inactive
 SESSION_SAVE_EVERY_REQUEST = True
 SESSION_COOKIE_AGE = 1800
+
+
+# login url
+LOGIN_URL = '/login/'
