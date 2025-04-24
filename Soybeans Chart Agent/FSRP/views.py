@@ -30,7 +30,24 @@ import ast
 
 
 
-@csrf_exempt  # in production, remove and use proper CSRF tokens in JS
+import json
+import logging
+from django.views.decorators.csrf import csrf_exempt
+from django.http import JsonResponse, HttpResponseNotAllowed
+from django.utils import timezone
+from django.contrib.auth.decorators import login_required
+from .models import FarmerQuery
+from .agents import (
+    QueryExtractorAgent,
+    InfoRetrievalAgent,
+    MemoryAgent,
+    ProfileAgent,
+    ContextualAdviceAgent
+)
+
+logger = logging.getLogger(__name__)
+
+@csrf_exempt  # NOTE: In production, remove this and use CSRF tokens in your frontend JS
 @login_required(login_url='login')
 def ask(request):
     if request.method != 'POST':
@@ -38,6 +55,9 @@ def ask(request):
 
     raw_query = request.POST.get('user_input', '').strip()
     user = request.user
+
+    # Log received input
+    logger.info(f"Received query from user {user.username}: {raw_query}")
 
     # Initialize agents
     extractor = QueryExtractorAgent()
@@ -49,7 +69,10 @@ def ask(request):
     # Generate response
     advice = advisor.advise(raw_query)
 
-    # Save the query and bot's response
+    # Log raw response
+    logger.debug(f"LLM advice for {user.username}: {advice}")
+
+    # Save the interaction to DB
     FarmerQuery.objects.create(
         user=user,
         query_text=raw_query,
@@ -57,16 +80,17 @@ def ask(request):
         timestamp=timezone.now()
     )
 
-    print("advice+++++++++++++++++++++++++", advice)
-    print(type(advice))
-    advice = json.loads(advice)
+    # Parse JSON response
+    if isinstance(advice, str):
+        advice = json.loads(advice)
 
-    # Return only relevant fields (excluding chart)
+    # Return a refined JSON response
     return JsonResponse({
         "response": {
             "answer": advice.get("answer"),
             "recommendations": advice.get("recommendations", []),
             "location": advice.get("location"),
+            "follow_up": advice.get("follow_up", "Is there anything else I can help you with?")
         }
     })
 
