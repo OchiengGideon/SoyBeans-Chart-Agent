@@ -1,7 +1,10 @@
 import os
 import json
+import logging
+import requests
 from django.utils import timezone
 from django.conf import settings
+from django.contrib.auth.models import User
 from sentence_transformers import SentenceTransformer
 from .models import FarmerQuery, Reminder
 from .vector_store import (
@@ -10,31 +13,33 @@ from .vector_store import (
     chroma_client,
     VectorStore
 )
-from langchain_community.llms import Ollama as LangchainOllama
-from django.contrib.auth.models import User
-
-# ----------------------------------------
-# Initialize Embedding Model
-# ----------------------------------------
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
+
+
+# Logging
+
+logger = logging.getLogger(__name__)
+
+
+# Initialize Embedding Model
 
 EMBEDDING_MODEL_NAME = "distiluse-base-multilingual-cased-v2"
 emb_model = SentenceTransformer(EMBEDDING_MODEL_NAME)
 hf_embeddings = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)
 
-model = "llama3.2"  
+model = "llama3.2"
 ollama_url = "https://dory-renewing-termite.ngrok-free.app/api/chat"
 
-# ----------------------------------------
+
 # Lazy Initialization of Vector Store
-# ----------------------------------------
+
 _vector_store_instance = None
 
 def get_vector_store():
     global _vector_store_instance
     if _vector_store_instance is None:
-        print("🔄 Initializing vector store...")
+        logger.info("🔄 Initializing vector store...")
         PDF_FOLDER = os.path.join(settings.BASE_DIR, 'pdfs')
         chunks = load_and_chunk_pdfs(PDF_FOLDER)
         local_store = get_or_create_faiss(chunks, hf_embeddings)
@@ -42,22 +47,18 @@ def get_vector_store():
         _vector_store_instance = VectorStore(local_store, chroma_collection)
     return _vector_store_instance
 
-# ----------------------------------------
+
 # Ollama LLM Client
-# ----------------------------------------
-import requests
 
 class OllamaClient:
-    """
-    Wrapper for querying a remote Ollama LLM model via the HTTP API.
-    Replace LangchainOllama with direct API calls to the Ollama server.
-    """
-    def __init__(self, model_name="llama3.2", api_url="https://dory-renewing-termite.ngrok-free.app/api/chat"):
+    def __init__(self, model_name="llama3.2", api_url=ollama_url):
         self.model = model_name
         self.api_url = api_url
 
     def generate(self, prompt: str) -> str:
-        messages = [{"role": "user", "content": prompt}]
+        messages = [
+            {"role": "user", "content": prompt}
+        ]
         try:
             response = requests.post(
                 self.api_url,
@@ -72,13 +73,13 @@ class OllamaClient:
             data = response.json()
             return data.get("message", {}).get("content", "No response content.")
         except requests.RequestException as e:
+            logger.error("Error communicating with Ollama API: %s", e)
             return f"Error: {e}"
 
 OLLAMA = OllamaClient()
 
-# ----------------------------------------
+
 # Agents Definitions
-# ----------------------------------------
 
 class QueryExtractorAgent:
     PROMPT = (
@@ -92,19 +93,16 @@ class QueryExtractorAgent:
     def extract(self, raw_query: str) -> dict:
         prompt = self.PROMPT.format(query=raw_query)
         resp = OLLAMA.generate(prompt)
-
-        print("🧠 Ollama response (extractor):", repr(resp))
-
+        logger.debug("🧠 Ollama response (extractor): %s", repr(resp))
         try:
-            print("successfull extraction")
             return json.loads(resp)
         except json.JSONDecodeError:
+            logger.warning("Invalid JSON response from extractor.")
             return {
                 "intent": "unknown",
                 "entities": {},
                 "error": "Could not parse Ollama response. Response was empty or invalid."
             }
-
 
 class InfoRetrievalAgent:
     PROMPT = (
@@ -127,14 +125,12 @@ class InfoRetrievalAgent:
         )
         return OLLAMA.generate(prompt)
 
-
 class MemoryAgent:
     def __init__(self, user: User):
         self.user = user
 
     def history(self):
         return FarmerQuery.objects.filter(user=self.user).order_by('timestamp')
-
 
 class ProfileAgent:
     PROMPT = (
@@ -149,7 +145,6 @@ class ProfileAgent:
         prompt = self.PROMPT.format(history="\n---\n".join(items))
         return OLLAMA.generate(prompt)
 
-
 class ContextualAdviceAgent:
     PROMPT = (
         "You are the Soybean Farming Assistant Agent. "
@@ -159,7 +154,8 @@ class ContextualAdviceAgent:
         "The JSON should contain:\n"
         "- 'answer': a well-written and informative explanation that directly addresses the user's question.\n"
         "- 'recommendations': a list of clear, helpful suggestions or actions the user can take.\n"
-        "- 'location': the relevant location if mentioned or inferred from context.\n\n"
+        "- 'location': the relevant location if mentioned or inferred from context.\n"
+        "- 'follow_up': a friendly sentence asking if the farmer needs more help.\n\n"
         "Profile Summary:\n{profile}\n\n"
         "Current Question:\n{question}\n\n"
         "Advice:\n{advice}\n\n"
@@ -173,49 +169,36 @@ class ContextualAdviceAgent:
         self.profile = profile_agent
 
     def advise(self, raw_query: str) -> dict:
-        info = self.extractor.extract(raw_query)
-        history_qs = self.memory.history()
-        profile_summary = self.profile.summarize(history_qs)
-        advice_text = self.retriever.retrieve(info)
+        if raw_query.strip().lower() in ["hi", "hello", "hey"]:
+            return {
+                "answer": "Hello there! How can I help you with your soybean farming today?",
+                "recommendations": [],
+                "location": None,
+                "follow_up": "Is there anything else you’d like help with?"
+            }
 
-        print("🧠 Extracted Info:", info)
-        print("🧠 Profile Summary:", profile_summary)
-        print("🧠 Advice Text:", advice_text)
+        key_info = self.extractor.extract(raw_query)
+        key_info['query'] = raw_query
+
+        advice_text = self.retriever.retrieve(key_info)
+        history_qs = self.memory.history()
+        profile_text = self.profile.summarize(history_qs)
 
         prompt = self.PROMPT.format(
-            profile=profile_summary,
+            profile=profile_text,
             question=raw_query,
             advice=advice_text
         )
 
         response = OLLAMA.generate(prompt)
-        print("🧠 Ollama response (advice):", response)
-
+        logger.info("✅ Final contextual response generated.")
         try:
-            print("successfull advice")
-            return response
-        except json.JSONDecodeError as e:
-            print("❌ JSON parse error:", e)
-            print("🔎 Raw Ollama output:", response)
+            return json.loads(response)
+        except json.JSONDecodeError:
+            logger.warning("⚠️ Could not parse final advice JSON. Returning fallback answer.")
             return {
-                "answer": "There was an error processing the response.",
+                "answer": advice_text,
                 "recommendations": [],
-                "location": None
+                "location": None,
+                "follow_up": "Do you need help with anything else?"
             }
-
-
-class ReminderAgent:
-    PROMPT = (
-        "You are a Soybean Reminder Agent. "
-        "Generate a reminder message for upcoming tasks.\n"
-        "Location: {location}\n"
-        "Season: {season}\n"
-        "Reminder:"
-    )
-
-    def create_message(self, location: str, season: str) -> str:
-        prompt = self.PROMPT.format(location=location, season=season)
-        return OLLAMA.generate(prompt)
-
-    def schedule(self, user: User, message: str, send_at: timezone.datetime): 
-        Reminder.objects.create(user=user, message=message, send_at=send_at)
