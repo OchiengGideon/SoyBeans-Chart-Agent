@@ -31,7 +31,7 @@ import ast
 
 
 @csrf_exempt  # in production, remove and use proper CSRF tokens in JS
-@login_required
+@login_required(login_url='login')
 def ask(request):
     if request.method != 'POST':
         return HttpResponseNotAllowed(['POST'])
