@@ -24,7 +24,7 @@ from .models import FarmerQuery, Reminder
 from .agents import (
     QueryExtractorAgent, InfoRetrievalAgent,
     MemoryAgent, ProfileAgent,
-    ContextualAdviceAgent, ReminderAgent
+    ContextualAdviceAgent
 )
 import ast
 
