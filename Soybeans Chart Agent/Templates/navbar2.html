@@ -3,15 +3,15 @@
     <div class="container">
         <a href="{% url 'home' %}" class="header__logo">
             <img src="{% static 'Images/logo-no-background.svg' %}" />
-            <h1>FSRS</h1>
+            <h1>SCIS</h1>
         </a>
         <div class="navbar">
           <div class="Menu">
               <ul>
-                <li><a href="{% url 'home' %}">Home</a></li>
+                <li><a href="{% url 'index' %}">Home</a></li>
                 <li><a href="{% url 'chart'%}">Chart</a></li>
                 <li><a href="{% url 'user-location'%}">Weather Updates</a></li>
-                <li><a href="#">About Us</a></li>
+                <li><a href="{% url 'home' %}">Rooms</a></li>
                 <li><a href="#">Contact us</a></li>
               </ul>
             </div>
