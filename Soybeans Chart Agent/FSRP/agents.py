@@ -16,14 +16,14 @@ from .vector_store import (
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 
-
+# ----------------------------------------
 # Logging
-
+# ----------------------------------------
 logger = logging.getLogger(__name__)
 
-
+# ----------------------------------------
 # Initialize Embedding Model
-
+# ----------------------------------------
 EMBEDDING_MODEL_NAME = "distiluse-base-multilingual-cased-v2"
 emb_model = SentenceTransformer(EMBEDDING_MODEL_NAME)
 hf_embeddings = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)
@@ -31,9 +31,9 @@ hf_embeddings = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)
 model = "llama3.2"
 ollama_url = "https://dory-renewing-termite.ngrok-free.app/api/chat"
 
-
+# ----------------------------------------
 # Lazy Initialization of Vector Store
-
+# ----------------------------------------
 _vector_store_instance = None
 
 def get_vector_store():
@@ -47,9 +47,9 @@ def get_vector_store():
         _vector_store_instance = VectorStore(local_store, chroma_collection)
     return _vector_store_instance
 
-
+# ----------------------------------------
 # Ollama LLM Client
-
+# ----------------------------------------
 class OllamaClient:
     def __init__(self, model_name="llama3.2", api_url=ollama_url):
         self.model = model_name
@@ -78,9 +78,9 @@ class OllamaClient:
 
 OLLAMA = OllamaClient()
 
-
+# ----------------------------------------
 # Agents Definitions
-
+# ----------------------------------------
 class QueryExtractorAgent:
     PROMPT = (
         "You are a Soybean Query Extraction Agent. "
